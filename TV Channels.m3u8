@@ -1,376 +1,376 @@
 #EXTM3U x-url-tvg="https://i.mjh.nz/PlutoTV/all.xml.gz"
-#EXTINF:1 channel-id="pluto-5f4d878d3d19b30007d2e782" tvg-id="5f4d878d3d19b30007d2e782" tvg-chno="131" tvg-l...,70s Cinema
+#EXTINF:1 channel-id="pluto-5f4d878d3d19b30007d2e782" tvg-id="5f4d878d3d19b30007d2e782" tvg-chno="2" group-title="TV Channels",70s Cinema
 #EXTGRP:TV Channels
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4d878d3d19b30007d2e782/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:1 channel-id="pluto-5ca525b650be2571e3943c63" tvg-id="5ca525b650be2571e3943c63" tvg-chno="126" tvg-l...,80s Rewind
+#EXTINF:1 channel-id="pluto-5ca525b650be2571e3943c63" tvg-id="5ca525b650be2571e3943c63" tvg-chno="3" group-title="TV Channels",80s Rewind
 #EXTGRP:TV Channels
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ca525b650be2571e3943c63/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:1 channel-id="pluto-5f4d86f519358a00072b978e" tvg-id="5f4d86f519358a00072b978e" tvg-chno="121" tvg-l...,90s Throwback
+#EXTINF:1 channel-id="pluto-5f4d86f519358a00072b978e" tvg-id="5f4d86f519358a00072b978e" tvg-chno="4" group-title="TV Channels",90s Throwback
 #EXTGRP:TV Channels
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4d86f519358a00072b978e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:1 channel-id="pluto-62ba60f059624e000781c436" tvg-id="62ba60f059624e000781c436" tvg-chno="119" tvg-l...,00s Replay
+#EXTINF:1 channel-id="pluto-62ba60f059624e000781c436" tvg-id="62ba60f059624e000781c436" tvg-chno="5" group-title="TV Channels",00s Replay
 #EXTGRP:TV Channels
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62ba60f059624e000781c436/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:1 channel-id="pluto-5268abcd0ce20a8472000114" tvg-id="5268abcd0ce20a8472000114" tvg-chno="390" tvg-l...,Pluto TV News
+#EXTINF:1 channel-id="pluto-5268abcd0ce20a8472000114" tvg-id="5268abcd0ce20a8472000114" tvg-chno="6" group-title="TV Channels",Pluto TV News
 #EXTGRP:TV Channels
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5268abcd0ce20a8472000114/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:1 channel-id="pluto-5f988934a507de00075d9ae7" tvg-id="5f988934a507de00075d9ae7" tvg-chno="215" tvg-l...,Showtime Selects
+#EXTINF:1 channel-id="pluto-5f988934a507de00075d9ae7" tvg-id="5f988934a507de00075d9ae7" tvg-chno="7" group-title="TV Channels",Showtime Selects
 #EXTGRP:TV Channels
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f988934a507de00075d9ae7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:1 channel-id="pluto-5cb0cae7a461406ffe3f5213" tvg-id="5cb0cae7a461406ffe3f5213" tvg-chno="136" tvg-l...,Paramount Movie Channel
+#EXTINF:1 channel-id="pluto-5cb0cae7a461406ffe3f5213" tvg-id="5cb0cae7a461406ffe3f5213" tvg-chno="8" group-title="TV Channels",Paramount Movie Channel
 #EXTGRP:TV Channels
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:1 channel-id="pluto-5ff8c708653d080007361b14" tvg-id="5ff8c708653d080007361b14" tvg-chno="210" tvg-l...,Paramount+ Picks
+#EXTINF:1 channel-id="pluto-5ff8c708653d080007361b14" tvg-id="5ff8c708653d080007361b14" tvg-chno="9" group-title="TV Channels",Paramount+ Picks
 #EXTGRP:TV Channels
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff8c708653d080007361b14/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:1 channel-id="pluto-628e685ba3811100070551a8" tvg-id="628e685ba3811100070551a8" tvg-chno="258" tvg-l...,Hallmark Movies & More
+#EXTINF:1 channel-id="pluto-628e685ba3811100070551a8" tvg-id="628e685ba3811100070551a8" tvg-chno="10" group-title="TV Channels",Hallmark Movies & More
 #EXTGRP:TV Channels
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/628e685ba3811100070551a8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:1 channel-id="pluto-5b4fc274694c027be6ed3eea" tvg-id="5b4fc274694c027be6ed3eea" tvg-chno="275" tvg-l...,Pluto TV Sci-Fi
+#EXTINF:1 channel-id="pluto-5b4fc274694c027be6ed3eea" tvg-id="5b4fc274694c027be6ed3eea" tvg-chno="11" group-title="TV Channels",Pluto TV Sci-Fi
 #EXTGRP:TV Channels
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5b4fc274694c027be6ed3eea/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:1 channel-id="pluto-5812bd9f249444e05d09cc4e" tvg-id="5812bd9f249444e05d09cc4e" tvg-chno="1950" tvg-...,Naturescape
+#EXTINF:1 channel-id="pluto-5812bd9f249444e05d09cc4e" tvg-id="5812bd9f249444e05d09cc4e" tvg-chno="12" group-title="TV Channels",Naturescape
 #EXTGRP:TV Channels
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5812bd9f249444e05d09cc4e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:1 channel-id="pluto-5f21ea08007a49000762d349" tvg-id="5f21ea08007a49000762d349" tvg-chno="1760" tvg-...,Smithsonian Channel Selects
+#EXTINF:1 channel-id="pluto-5f21ea08007a49000762d349" tvg-id="5f21ea08007a49000762d349" tvg-chno="13" group-title="TV Channels",Smithsonian Channel Selects
 #EXTGRP:TV Channels
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f21ea08007a49000762d349/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:1 channel-id="pluto-589aa03df9ba56a84197a560" tvg-id="589aa03df9ba56a84197a560" tvg-chno="1820" tvg-...,Voyager Documentaries
+#EXTINF:1 channel-id="pluto-589aa03df9ba56a84197a560" tvg-id="589aa03df9ba56a84197a560" tvg-chno="14" group-title="TV Channels",Voyager Documentaries
 #EXTGRP:TV Channels
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/589aa03df9ba56a84197a560/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:1 channel-id="pluto-5317bfebff98025b3200ff99" tvg-id="5317bfebff98025b3200ff99" tvg-chno="1955" tvg-...,Slow TV
+#EXTINF:1 channel-id="pluto-5317bfebff98025b3200ff99" tvg-id="5317bfebff98025b3200ff99" tvg-chno="15" group-title="TV Channels",Slow TV
 #EXTGRP:TV Channels
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5317bfebff98025b3200ff99/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:1 channel-id="pluto-5a4d35dfa5c02e717a234f86" tvg-id="5a4d35dfa5c02e717a234f86" tvg-chno="1775" tvg-...,Pluto TV History
+#EXTINF:1 channel-id="pluto-5a4d35dfa5c02e717a234f86" tvg-id="5a4d35dfa5c02e717a234f86" tvg-chno="16" group-title="TV Channels",Pluto TV History
 #EXTGRP:TV Channels
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5a4d35dfa5c02e717a234f86/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:1 channel-id="pluto-5bb3fea0f711fd76340eebff" tvg-id="5bb3fea0f711fd76340eebff" tvg-chno="1790" tvg-...,Pluto TV Military
+#EXTINF:1 channel-id="pluto-5bb3fea0f711fd76340eebff" tvg-id="5bb3fea0f711fd76340eebff" tvg-chno="17" group-title="TV Channels",Pluto TV Military
 #EXTGRP:TV Channels
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5bb3fea0f711fd76340eebff/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:1 channel-id="pluto-563a970aa1a1f7fe7c9daad7" tvg-id="563a970aa1a1f7fe7c9daad7" tvg-chno="1805" tvg-...,Pluto TV Science
+#EXTINF:1 channel-id="pluto-563a970aa1a1f7fe7c9daad7" tvg-id="563a970aa1a1f7fe7c9daad7" tvg-chno="18" group-title="TV Channels",Pluto TV Science
 #EXTGRP:TV Channels
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/563a970aa1a1f7fe7c9daad7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:1 channel-id="pluto-5adf96e3e738977e2c31cb04" tvg-id="5adf96e3e738977e2c31cb04" tvg-chno="820" tvg-l...,Pluto TV Paranormal
+#EXTINF:1 channel-id="pluto-5adf96e3e738977e2c31cb04" tvg-id="5adf96e3e738977e2c31cb04" tvg-chno="19" group-title="TV Channels",Pluto TV Paranormal
 #EXTGRP:TV Channels
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5adf96e3e738977e2c31cb04/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:1 channel-id="pluto-5b85a7582921777994caea63" tvg-id="5b85a7582921777994caea63" tvg-chno="116" tvg-l...,Pluto TV Documentaries
+#EXTINF:1 channel-id="pluto-5b85a7582921777994caea63" tvg-id="5b85a7582921777994caea63" tvg-chno="20" group-title="TV Channels",Pluto TV Documentaries
 #EXTGRP:TV Channels
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5b85a7582921777994caea63/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:1 channel-id="pluto-5f1efad04320070007dbb60b" tvg-id="5f1efad04320070007dbb60b" tvg-chno="312" tvg-l...,theGrio
+#EXTINF:1 channel-id="pluto-5f1efad04320070007dbb60b" tvg-id="5f1efad04320070007dbb60b" tvg-chno="21" group-title="TV Channels",theGrio
 #EXTGRP:TV Channels
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1efad04320070007dbb60b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:1 channel-id="pluto-5812bcc8237a6ff45d16c407" tvg-id="5812bcc8237a6ff45d16c407" tvg-chno="805" tvg-l...,Spike Pluto TV
+#EXTINF:1 channel-id="pluto-5812bcc8237a6ff45d16c407" tvg-id="5812bcc8237a6ff45d16c407" tvg-chno="22" group-title="TV Channels",Spike Pluto TV
 #EXTGRP:TV Channels
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5812bcc8237a6ff45d16c407/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:1 channel-id="pluto-5c393cad2de254456f7ef8c2" tvg-id="5c393cad2de254456f7ef8c2" tvg-chno="810" tvg-l...,Spike Outdoors
+#EXTINF:1 channel-id="pluto-5c393cad2de254456f7ef8c2" tvg-id="5c393cad2de254456f7ef8c2" tvg-chno="23" group-title="TV Channels",Spike Outdoors
 #EXTGRP:TV Channels
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5c393cad2de254456f7ef8c2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:1 channel-id="pluto-5d40bebc5e3d2750a2239d7e" tvg-id="5d40bebc5e3d2750a2239d7e" tvg-chno="220" tvg-l...,TV Land Drama
+#EXTINF:1 channel-id="pluto-5d40bebc5e3d2750a2239d7e" tvg-id="5d40bebc5e3d2750a2239d7e" tvg-chno="24" group-title="TV Channels",TV Land Drama
 #EXTGRP:TV Channels
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d40bebc5e3d2750a2239d7e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:1 channel-id="pluto-613260e4bdb71c00070d63fa" tvg-id="613260e4bdb71c00070d63fa" tvg-chno="225" tvg-l...,More TV Drama
+#EXTINF:1 channel-id="pluto-613260e4bdb71c00070d63fa" tvg-id="613260e4bdb71c00070d63fa" tvg-chno="25" group-title="TV Channels",More TV Drama
 #EXTGRP:TV Channels
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/613260e4bdb71c00070d63fa/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:1 channel-id="pluto-5b4e92e4694c027be6ecece1" tvg-id="5b4e92e4694c027be6ecece1" tvg-chno="71" tvg-lo...,Pluto TV Drama
+#EXTINF:1 channel-id="pluto-5b4e92e4694c027be6ecece1" tvg-id="5b4e92e4694c027be6ecece1" tvg-chno="26" group-title="TV Channels",Pluto TV Drama
 #EXTGRP:TV Channels
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5b4e92e4694c027be6ecece1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:1 channel-id="pluto-5f24662bebe0f0000767de32" tvg-id="5f24662bebe0f0000767de32" tvg-chno="240" tvg-l...,Pluto TV Drama Life
+#EXTINF:1 channel-id="pluto-5f24662bebe0f0000767de32" tvg-id="5f24662bebe0f0000767de32" tvg-chno="27" group-title="TV Channels",Pluto TV Drama Life
 #EXTGRP:TV Channels
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f24662bebe0f0000767de32/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:1 channel-id="pluto-5c2d64ffbdf11b71587184b8" tvg-id="5c2d64ffbdf11b71587184b8" tvg-chno="1185" tvg-...,TV Land Sitcoms
+#EXTINF:1 channel-id="pluto-5c2d64ffbdf11b71587184b8" tvg-id="5c2d64ffbdf11b71587184b8" tvg-chno="28" group-title="TV Channels",TV Land Sitcoms
 #EXTGRP:TV Channels
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5c2d64ffbdf11b71587184b8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:1 channel-id="pluto-6132619f9ddaa50007e7dd86" tvg-id="6132619f9ddaa50007e7dd86" tvg-chno="1190" tvg-...,More TV Sitcoms
+#EXTINF:1 channel-id="pluto-6132619f9ddaa50007e7dd86" tvg-id="6132619f9ddaa50007e7dd86" tvg-chno="29" group-title="TV Channels",More TV Sitcoms
 #EXTGRP:TV Channels
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6132619f9ddaa50007e7dd86/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:1 channel-id="pluto-5d51e6949ab8e2b35bdcaa9f" tvg-id="5d51e6949ab8e2b35bdcaa9f" tvg-chno="305" tvg-l...,BET Her
+#EXTINF:1 channel-id="pluto-5d51e6949ab8e2b35bdcaa9f" tvg-id="5d51e6949ab8e2b35bdcaa9f" tvg-chno="30" group-title="TV Channels",BET Her
 #EXTGRP:TV Channels
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d51e6949ab8e2b35bdcaa9f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:1 channel-id="pluto-5ca670f6593a5d78f0e85aed" tvg-id="5ca670f6593a5d78f0e85aed" tvg-chno="300" tvg-l...,BET Pluto TV
+#EXTINF:1 channel-id="pluto-5ca670f6593a5d78f0e85aed" tvg-id="5ca670f6593a5d78f0e85aed" tvg-chno="31" group-title="TV Channels",BET Pluto TV
 #EXTGRP:TV Channels
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ca670f6593a5d78f0e85aed/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:1 channel-id="pluto-6176fd25e83a5f0007a464c9" tvg-id="6176fd25e83a5f0007a464c9" tvg-chno="310" tvg-l...,Bounce XL
+#EXTINF:1 channel-id="pluto-6176fd25e83a5f0007a464c9" tvg-id="6176fd25e83a5f0007a464c9" tvg-chno="32" group-title="TV Channels",Bounce XL
 #EXTGRP:TV Channels
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6176fd25e83a5f0007a464c9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:1 channel-id="pluto-55a6a3275616b6240c26f393" tvg-id="55a6a3275616b6240c26f393" tvg-chno="1420" tvg-...,Shout! Factory TV
+#EXTINF:1 channel-id="pluto-55a6a3275616b6240c26f393" tvg-id="55a6a3275616b6240c26f393" tvg-chno="33" group-title="TV Channels",Shout! Factory TV
 #EXTGRP:TV Channels
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/55a6a3275616b6240c26f393/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:1 channel-id="pluto-5812bfbe4ced4f7b601b12e6" tvg-id="5812bfbe4ced4f7b601b12e6" tvg-chno="1030" tvg-...,BUZZR
+#EXTINF:1 channel-id="pluto-5812bfbe4ced4f7b601b12e6" tvg-id="5812bfbe4ced4f7b601b12e6" tvg-chno="34" group-title="TV Channels",BUZZR
 #EXTGRP:TV Channels
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5812bfbe4ced4f7b601b12e6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:1 channel-id="pluto-5e54187aae660e00093561d6" tvg-id="5e54187aae660e00093561d6" tvg-chno="1040" tvg-...,Game Show Central
+#EXTINF:1 channel-id="pluto-5e54187aae660e00093561d6" tvg-id="5e54187aae660e00093561d6" tvg-chno="35" group-title="TV Channels",Game Show Central
 #EXTGRP:TV Channels
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e54187aae660e00093561d6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:1 channel-id="pluto-6036e7c385749f00075dbd3b" tvg-id="6036e7c385749f00075dbd3b" tvg-chno="1015" tvg-...,Pluto TV Game Shows
+#EXTINF:1 channel-id="pluto-6036e7c385749f00075dbd3b" tvg-id="6036e7c385749f00075dbd3b" tvg-chno="36" group-title="TV Channels",Pluto TV Game Shows
 #EXTGRP:TV Channels
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6036e7c385749f00075dbd3b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:1 channel-id="pluto-5d8bf0b06d2d855ee15115e3" tvg-id="5d8bf0b06d2d855ee15115e3" tvg-chno="780" tvg-l...,Pluto TV Reality
+#EXTINF:1 channel-id="pluto-5d8bf0b06d2d855ee15115e3" tvg-id="5d8bf0b06d2d855ee15115e3" tvg-chno="37" group-title="TV Channels",Pluto TV Reality
 #EXTGRP:TV Channels
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d8bf0b06d2d855ee15115e3/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:1 channel-id="pluto-5aec96ec5126c2157123c657" tvg-id="5aec96ec5126c2157123c657" tvg-chno="1110" tvg-...,Nosey
+#EXTINF:1 channel-id="pluto-5aec96ec5126c2157123c657" tvg-id="5aec96ec5126c2157123c657" tvg-chno="38" group-title="TV Channels",Nosey
 #EXTGRP:TV Channels
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5aec96ec5126c2157123c657/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:1 channel-id="pluto-5e9decb953e157000752321c" tvg-id="5e9decb953e157000752321c" tvg-chno="1115" tvg-...,Judge Nosey
+#EXTINF:1 channel-id="pluto-5e9decb953e157000752321c" tvg-id="5e9decb953e157000752321c" tvg-chno="39" group-title="TV Channels",Judge Nosey
 #EXTGRP:TV Channels
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e9decb953e157000752321c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:1 channel-id="pluto-5dcc42446750e200093b15e2" tvg-id="5dcc42446750e200093b15e2" tvg-chno="320" tvg-l...,CMT Pluto TV
+#EXTINF:1 channel-id="pluto-5dcc42446750e200093b15e2" tvg-id="5dcc42446750e200093b15e2" tvg-chno="40" group-title="TV Channels",CMT Pluto TV
 #EXTGRP:TV Channels
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcc42446750e200093b15e2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:1 channel-id="pluto-5f68f53eb1e5800007390bf8" tvg-id="5f68f53eb1e5800007390bf8" tvg-chno="2505" tvg-...,CMT Equal Play
+#EXTINF:1 channel-id="pluto-5f68f53eb1e5800007390bf8" tvg-id="5f68f53eb1e5800007390bf8" tvg-chno="41" group-title="TV Channels",CMT Equal Play
 #EXTGRP:TV Channels
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f68f53eb1e5800007390bf8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:1 channel-id="pluto-5ca671f215a62078d2ec0abf" tvg-id="5ca671f215a62078d2ec0abf" tvg-chno="1210" tvg-...,Comedy Central Pluto TV
+#EXTINF:1 channel-id="pluto-5ca671f215a62078d2ec0abf" tvg-id="5ca671f215a62078d2ec0abf" tvg-chno="42" group-title="TV Channels",Comedy Central Pluto TV
 #EXTGRP:TV Channels
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:1 channel-id="pluto-5f99e24636d67d0007a94e6d" tvg-id="5f99e24636d67d0007a94e6d" tvg-chno="1215" tvg-...,Comedy Central Animation
+#EXTINF:1 channel-id="pluto-5f99e24636d67d0007a94e6d" tvg-id="5f99e24636d67d0007a94e6d" tvg-chno="43" group-title="TV Channels",Comedy Central Animation
 #EXTGRP:TV Channels
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f99e24636d67d0007a94e6d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:1 channel-id="pluto-5a4d3a00ad95e4718ae8d8db" tvg-id="5a4d3a00ad95e4718ae8d8db" tvg-chno="66" tvg-lo...,Pluto TV Comedy
+#EXTINF:1 channel-id="pluto-5a4d3a00ad95e4718ae8d8db" tvg-id="5a4d3a00ad95e4718ae8d8db" tvg-chno="44" group-title="TV Channels",Pluto TV Comedy
 #EXTGRP:TV Channels
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5a4d3a00ad95e4718ae8d8db/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:1 channel-id="pluto-554158e864526b29254ff105" tvg-id="554158e864526b29254ff105" tvg-chno="1260" tvg-...,FailArmy
+#EXTINF:1 channel-id="pluto-554158e864526b29254ff105" tvg-id="554158e864526b29254ff105" tvg-chno="45" group-title="TV Channels",FailArmy
 #EXTGRP:TV Channels
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/554158e864526b29254ff105/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:1 channel-id="pluto-5e82b55ad0213e00079c509f" tvg-id="5e82b55ad0213e00079c509f" tvg-chno="1255" tvg-...,Always Funny Videos
+#EXTINF:1 channel-id="pluto-5e82b55ad0213e00079c509f" tvg-id="5e82b55ad0213e00079c509f" tvg-chno="46" group-title="TV Channels",Always Funny Videos
 #EXTGRP:TV Channels
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e82b55ad0213e00079c509f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:1 channel-id="pluto-5f15e32b297f96000768f928" tvg-id="5f15e32b297f96000768f928" tvg-chno="1310" tvg-...,Classic TV Comedy
+#EXTINF:1 channel-id="pluto-5f15e32b297f96000768f928" tvg-id="5f15e32b297f96000768f928" tvg-chno="47" group-title="TV Channels",Classic TV Comedy
 #EXTGRP:TV Channels
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f15e32b297f96000768f928/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:1 channel-id="pluto-5f15e3cccf49290007053c67" tvg-id="5f15e3cccf49290007053c67" tvg-chno="1370" tvg-...,Classic TV Drama
+#EXTINF:1 channel-id="pluto-5f15e3cccf49290007053c67" tvg-id="5f15e3cccf49290007053c67" tvg-chno="48" group-title="TV Channels",Classic TV Drama
 #EXTGRP:TV Channels
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f15e3cccf49290007053c67/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:1 channel-id="pluto-61325d18f5166c00081b84e0" tvg-id="61325d18f5166c00081b84e0" tvg-chno="1315" tvg-...,Classic TV: Families
+#EXTINF:1 channel-id="pluto-61325d18f5166c00081b84e0" tvg-id="61325d18f5166c00081b84e0" tvg-chno="49" group-title="TV Channels",Classic TV: Families
 #EXTGRP:TV Channels
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61325d18f5166c00081b84e0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:1 channel-id="pluto-561c5b0dada51f8004c4d855" tvg-id="561c5b0dada51f8004c4d855" tvg-chno="146" tvg-l...,Classic Movies Channel
+#EXTINF:1 channel-id="pluto-561c5b0dada51f8004c4d855" tvg-id="561c5b0dada51f8004c4d855" tvg-chno="50" group-title="TV Channels",Classic Movies Channel
 #EXTGRP:TV Channels
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:1 channel-id="pluto-60f5d389985a0c0007357304" tvg-id="60f5d389985a0c0007357304" tvg-chno="660" tvg-l...,BritBox Mysteries
+#EXTINF:1 channel-id="pluto-60f5d389985a0c0007357304" tvg-id="60f5d389985a0c0007357304" tvg-chno="51" group-title="TV Channels",BritBox Mysteries
 #EXTGRP:TV Channels
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60f5d389985a0c0007357304/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:1 channel-id="pluto-60f870184865da00074210ee" tvg-id="60f870184865da00074210ee" tvg-chno="1225" tvg-...,British Comedy
+#EXTINF:1 channel-id="pluto-60f870184865da00074210ee" tvg-id="60f870184865da00074210ee" tvg-chno="52" group-title="TV Channels",British Comedy
 #EXTGRP:TV Channels
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60f870184865da00074210ee/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:1 channel-id="pluto-5b68a18823ecb93393cba2f1" tvg-id="5b68a18823ecb93393cba2f1" tvg-chno="290" tvg-l...,British Drama
+#EXTINF:1 channel-id="pluto-5b68a18823ecb93393cba2f1" tvg-id="5b68a18823ecb93393cba2f1" tvg-chno="53" group-title="TV Channels",British Drama
 #EXTGRP:TV Channels
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5b68a18823ecb93393cba2f1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:1 channel-id="pluto-5ef0fbed39ff730007383a69" tvg-id="5ef0fbed39ff730007383a69" tvg-chno="1530" tvg-...,Dabl
+#EXTINF:1 channel-id="pluto-5ef0fbed39ff730007383a69" tvg-id="5ef0fbed39ff730007383a69" tvg-chno="54" group-title="TV Channels",Dabl
 #EXTGRP:TV Channels
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ef0fbed39ff730007383a69/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:1 channel-id="pluto-5e8df4bc16e34700077e77d3" tvg-id="5e8df4bc16e34700077e77d3" tvg-chno="1390" tvg-...,Western TV
+#EXTINF:1 channel-id="pluto-5e8df4bc16e34700077e77d3" tvg-id="5e8df4bc16e34700077e77d3" tvg-chno="55" group-title="TV Channels",Western TV
 #EXTGRP:TV Channels
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e8df4bc16e34700077e77d3/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:1 channel-id="pluto-5b4e94282d4ec87bdcbb87cd" tvg-id="5b4e94282d4ec87bdcbb87cd" tvg-chno="141" tvg-l...,Pluto TV Westerns
+#EXTINF:1 channel-id="pluto-5b4e94282d4ec87bdcbb87cd" tvg-id="5b4e94282d4ec87bdcbb87cd" tvg-chno="56" group-title="TV Channels",Pluto TV Westerns
 #EXTGRP:TV Channels
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5b4e94282d4ec87bdcbb87cd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:1 channel-id="pluto-610c5f80f71f660007a2ad8e" tvg-id="610c5f80f71f660007a2ad8e" tvg-chno="1130" tvg-...,Pluto TV Soaps
+#EXTINF:1 channel-id="pluto-610c5f80f71f660007a2ad8e" tvg-id="610c5f80f71f660007a2ad8e" tvg-chno="57" group-title="TV Channels",Pluto TV Soaps
 #EXTGRP:TV Channels
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/610c5f80f71f660007a2ad8e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:1 channel-id="pluto-5a6b92f6e22a617379789618" tvg-id="5a6b92f6e22a617379789618" tvg-chno="395" tvg-l...,CBS News
+#EXTINF:1 channel-id="pluto-5a6b92f6e22a617379789618" tvg-id="5a6b92f6e22a617379789618" tvg-chno="58" group-title="TV Channels",CBS News
 #EXTGRP:TV Channels
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5a6b92f6e22a617379789618/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:1 channel-id="pluto-5df97894467dfa00091c873c" tvg-id="5df97894467dfa00091c873c" tvg-chno="420" tvg-l...,NBC News NOW
+#EXTINF:1 channel-id="pluto-5df97894467dfa00091c873c" tvg-id="5df97894467dfa00091c873c" tvg-chno="59" group-title="TV Channels",NBC News NOW
 #EXTGRP:TV Channels
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df97894467dfa00091c873c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:1 channel-id="pluto-5d695f7db53adf96b78e7ce3" tvg-id="5d695f7db53adf96b78e7ce3" tvg-chno="422" tvg-l...,TODAY All Day
+#EXTINF:1 channel-id="pluto-5d695f7db53adf96b78e7ce3" tvg-id="5d695f7db53adf96b78e7ce3" tvg-chno="60" group-title="TV Channels",TODAY All Day
 #EXTGRP:TV Channels
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d695f7db53adf96b78e7ce3/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:1 channel-id="pluto-5fff49cfb5cd4f0007c2b0dc" tvg-id="5fff49cfb5cd4f0007c2b0dc" tvg-chno="3420" tvg-...,News 12 New York
+#EXTINF:1 channel-id="pluto-5fff49cfb5cd4f0007c2b0dc" tvg-id="5fff49cfb5cd4f0007c2b0dc" tvg-chno="61" group-title="TV Channels",News 12 New York
 #EXTGRP:TV Channels
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fff49cfb5cd4f0007c2b0dc/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:1 channel-id="pluto-632b619c8d2a6c0007ff534e" tvg-id="632b619c8d2a6c0007ff534e" tvg-chno="3445" tvg-...,KIRO Seattle 24/7
+#EXTINF:1 channel-id="pluto-632b619c8d2a6c0007ff534e" tvg-id="632b619c8d2a6c0007ff534e" tvg-chno="62" group-title="TV Channels",KIRO Seattle 24/7
 #EXTGRP:TV Channels
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/632b619c8d2a6c0007ff534e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:1 channel-id="pluto-5812afe1d0f0b8d55dde67fa" tvg-id="5812afe1d0f0b8d55dde67fa" tvg-chno="440" tvg-l...,Cheddar News
+#EXTINF:1 channel-id="pluto-5812afe1d0f0b8d55dde67fa" tvg-id="5812afe1d0f0b8d55dde67fa" tvg-chno="63" group-title="TV Channels",Cheddar News
 #EXTGRP:TV Channels
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5812afe1d0f0b8d55dde67fa/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:1 channel-id="pluto-54ff7ba69222cb1c2624c584" tvg-id="54ff7ba69222cb1c2624c584" tvg-chno="435" tvg-l...,Bloomberg TV
+#EXTINF:1 channel-id="pluto-54ff7ba69222cb1c2624c584" tvg-id="54ff7ba69222cb1c2624c584" tvg-chno="64" group-title="TV Channels",Bloomberg TV
 #EXTGRP:TV Channels
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/54ff7ba69222cb1c2624c584/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:1 channel-id="pluto-55b179af994403942f3061d6" tvg-id="55b179af994403942f3061d6" tvg-chno="460" tvg-l...,Newsmax
+#EXTINF:1 channel-id="pluto-55b179af994403942f3061d6" tvg-id="55b179af994403942f3061d6" tvg-chno="65" group-title="TV Channels",Newsmax
 #EXTGRP:TV Channels
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/55b179af994403942f3061d6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:1 channel-id="pluto-5459795fc9f133a519bc0bef" tvg-id="5459795fc9f133a519bc0bef" tvg-chno="450" tvg-l...,Newsy
+#EXTINF:1 channel-id="pluto-5459795fc9f133a519bc0bef" tvg-id="5459795fc9f133a519bc0bef" tvg-chno="66" group-title="TV Channels",Newsy
 #EXTGRP:TV Channels
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5459795fc9f133a519bc0bef/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:1 channel-id="pluto-5e1f7da4bc7d740009831259" tvg-id="5e1f7da4bc7d740009831259" tvg-chno="470" tvg-l...,America's Voice News
+#EXTINF:1 channel-id="pluto-5e1f7da4bc7d740009831259" tvg-id="5e1f7da4bc7d740009831259" tvg-chno="67" group-title="TV Channels",America's Voice News
 #EXTGRP:TV Channels
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e1f7da4bc7d740009831259/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:1 channel-id="pluto-5e46fba0c43b0d00096e5ac1" tvg-id="5e46fba0c43b0d00096e5ac1" tvg-chno="465" tvg-l...,Blaze Live
+#EXTINF:1 channel-id="pluto-5e46fba0c43b0d00096e5ac1" tvg-id="5e46fba0c43b0d00096e5ac1" tvg-chno="68" group-title="TV Channels",Blaze Live
 #EXTGRP:TV Channels
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e46fba0c43b0d00096e5ac1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:1 channel-id="pluto-5e7cf6c7b156d500078c5f44" tvg-id="5e7cf6c7b156d500078c5f44" tvg-chno="475" tvg-l...,OAN Plus
+#EXTINF:1 channel-id="pluto-5e7cf6c7b156d500078c5f44" tvg-id="5e7cf6c7b156d500078c5f44" tvg-chno="69" group-title="TV Channels",OAN Plus
 #EXTGRP:TV Channels
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e7cf6c7b156d500078c5f44/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:1 channel-id="pluto-5d486acc34ceb37d3c458a64" tvg-id="5d486acc34ceb37d3c458a64" tvg-chno="480" tvg-l...,The First
+#EXTINF:1 channel-id="pluto-5d486acc34ceb37d3c458a64" tvg-id="5d486acc34ceb37d3c458a64" tvg-chno="70" group-title="TV Channels",The First
 #EXTGRP:TV Channels
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d486acc34ceb37d3c458a64/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:1 channel-id="pluto-55b285cd2665de274553d66f" tvg-id="55b285cd2665de274553d66f" tvg-chno="430" tvg-l...,Sky News
+#EXTINF:1 channel-id="pluto-55b285cd2665de274553d66f" tvg-id="55b285cd2665de274553d66f" tvg-chno="71" group-title="TV Channels",Sky News
 #EXTGRP:TV Channels
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/55b285cd2665de274553d66f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:1 channel-id="pluto-5331d5fb753499095a00045a" tvg-id="5331d5fb753499095a00045a" tvg-chno="485" tvg-l...,TYT Network
+#EXTINF:1 channel-id="pluto-5331d5fb753499095a00045a" tvg-id="5331d5fb753499095a00045a" tvg-chno="72" group-title="TV Channels",TYT Network
 #EXTGRP:TV Channels
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5331d5fb753499095a00045a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:1 channel-id="pluto-5f161c0a8ba90f0007d5bd0b" tvg-id="5f161c0a8ba90f0007d5bd0b" tvg-chno="490" tvg-l...,Yahoo Finance
+#EXTINF:1 channel-id="pluto-5f161c0a8ba90f0007d5bd0b" tvg-id="5f161c0a8ba90f0007d5bd0b" tvg-chno="73" group-title="TV Channels",Yahoo Finance
 #EXTGRP:TV Channels
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f161c0a8ba90f0007d5bd0b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:1 channel-id="pluto-5dae0b4841a7d0000938ddbd" tvg-id="5dae0b4841a7d0000938ddbd" tvg-chno="675" tvg-l...,Court TV
+#EXTINF:1 channel-id="pluto-5dae0b4841a7d0000938ddbd" tvg-id="5dae0b4841a7d0000938ddbd" tvg-chno="74" group-title="TV Channels",Court TV
 #EXTGRP:TV Channels
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dae0b4841a7d0000938ddbd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:1 channel-id="pluto-5f31fd1b4c510e00071c3103" tvg-id="5f31fd1b4c510e00071c3103" tvg-chno="540" tvg-l...,Pluto TV Crime Drama
+#EXTINF:1 channel-id="pluto-5f31fd1b4c510e00071c3103" tvg-id="5f31fd1b4c510e00071c3103" tvg-chno="75" group-title="TV Channels",Pluto TV Crime Drama
 #EXTGRP:TV Channels
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f31fd1b4c510e00071c3103/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:1 channel-id="pluto-5812be1c249444e05d09cc50" tvg-id="5812be1c249444e05d09cc50" tvg-chno="590" tvg-l...,Pluto TV True Crime
+#EXTINF:1 channel-id="pluto-5812be1c249444e05d09cc50" tvg-id="5812be1c249444e05d09cc50" tvg-chno="76" group-title="TV Channels",Pluto TV True Crime
 #EXTGRP:TV Channels
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5812be1c249444e05d09cc50/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:1 channel-id="pluto-6036e6e7ac69c400072afca2" tvg-id="6036e6e7ac69c400072afca2" tvg-chno="1125" tvg-...,Pluto TV Courtroom
+#EXTINF:1 channel-id="pluto-6036e6e7ac69c400072afca2" tvg-id="6036e6e7ac69c400072afca2" tvg-chno="77" group-title="TV Channels",Pluto TV Courtroom
 #EXTGRP:TV Channels
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6036e6e7ac69c400072afca2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:1 channel-id="pluto-5e66968a70f34c0007d050be" tvg-id="5e66968a70f34c0007d050be" tvg-chno="2090" tvg-...,MLB
+#EXTINF:1 channel-id="pluto-5e66968a70f34c0007d050be" tvg-id="5e66968a70f34c0007d050be" tvg-chno="78" group-title="TV Channels",MLB
 #EXTGRP:TV Channels
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e66968a70f34c0007d050be/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:1 channel-id="pluto-5cb626cfcaf83414128f439c" tvg-id="5cb626cfcaf83414128f439c" tvg-chno="2110" tvg-...,MLS
+#EXTINF:1 channel-id="pluto-5cb626cfcaf83414128f439c" tvg-id="5cb626cfcaf83414128f439c" tvg-chno="79" group-title="TV Channels",MLS
 #EXTGRP:TV Channels
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:1 channel-id="pluto-5ced7d5df64be98e07ed47b6" tvg-id="5ced7d5df64be98e07ed47b6" tvg-chno="2070" tvg-...,NFL Channel
+#EXTINF:1 channel-id="pluto-5ced7d5df64be98e07ed47b6" tvg-id="5ced7d5df64be98e07ed47b6" tvg-chno="80" group-title="TV Channels",NFL Channel
 #EXTGRP:TV Channels
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:1 channel-id="pluto-5df975e2b27cf5000921c102" tvg-id="5df975e2b27cf5000921c102" tvg-chno="2190" tvg-...,beIN SPORTS XTRA
+#EXTINF:1 channel-id="pluto-5df975e2b27cf5000921c102" tvg-id="5df975e2b27cf5000921c102" tvg-chno="81" group-title="TV Channels",beIN SPORTS XTRA
 #EXTGRP:TV Channels
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:1 channel-id="pluto-5de94dacb394a300099fa22a" tvg-id="5de94dacb394a300099fa22a" tvg-chno="2130" tvg-...,PGA TOUR
+#EXTINF:1 channel-id="pluto-5de94dacb394a300099fa22a" tvg-id="5de94dacb394a300099fa22a" tvg-chno="82" group-title="TV Channels",PGA TOUR
 #EXTGRP:TV Channels
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de94dacb394a300099fa22a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:1 channel-id="pluto-5a74b8e1e22a61737979c6bf" tvg-id="5a74b8e1e22a61737979c6bf" tvg-chno="2050" tvg-...,FOX Sports
+#EXTINF:1 channel-id="pluto-5a74b8e1e22a61737979c6bf" tvg-id="5a74b8e1e22a61737979c6bf" tvg-chno="83" group-title="TV Channels",FOX Sports
 #EXTGRP:TV Channels
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:1 channel-id="pluto-611468532f5f180007fbbc9c" tvg-id="611468532f5f180007fbbc9c" tvg-chno="2200" tvg-...,MAVTV Select
+#EXTINF:1 channel-id="pluto-611468532f5f180007fbbc9c" tvg-id="611468532f5f180007fbbc9c" tvg-chno="84" group-title="TV Channels",MAVTV Select
 #EXTGRP:TV Channels
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/611468532f5f180007fbbc9c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:1 channel-id="pluto-56340779a738201b4ccfeac9" tvg-id="56340779a738201b4ccfeac9" tvg-chno="2155" tvg-...,Pluto TV Sports
+#EXTINF:1 channel-id="pluto-56340779a738201b4ccfeac9" tvg-id="56340779a738201b4ccfeac9" tvg-chno="85" group-title="TV Channels",Pluto TV Sports
 #EXTGRP:TV Channels
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/56340779a738201b4ccfeac9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:1 channel-id="pluto-5812b0f2237a6ff45d16c3f9" tvg-id="5812b0f2237a6ff45d16c3f9" tvg-chno="2160" tvg-...,Fight
+#EXTINF:1 channel-id="pluto-5812b0f2237a6ff45d16c3f9" tvg-id="5812b0f2237a6ff45d16c3f9" tvg-chno="86" group-title="TV Channels",Fight
 #EXTGRP:TV Channels
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5812b0f2237a6ff45d16c3f9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:1 channel-id="pluto-5e9f2c05172a0f0007db4786" tvg-id="5e9f2c05172a0f0007db4786" tvg-chno="2030" tvg-...,CBS Sports HQ
+#EXTINF:1 channel-id="pluto-5e9f2c05172a0f0007db4786" tvg-id="5e9f2c05172a0f0007db4786" tvg-chno="87" group-title="TV Channels",CBS Sports HQ
 #EXTGRP:TV Channels
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:1 channel-id="pluto-5d486b2eeddd9576d66f9066" tvg-id="5d486b2eeddd9576d66f9066" tvg-chno="1940" tvg-...,TBN
+#EXTINF:1 channel-id="pluto-5d486b2eeddd9576d66f9066" tvg-id="5d486b2eeddd9576d66f9066" tvg-chno="88" group-title="TV Channels",TBN
 #EXTGRP:TV Channels
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d486b2eeddd9576d66f9066/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:1 channel-id="pluto-5c58a539fae3812612f33ca3" tvg-id="5c58a539fae3812612f33ca3" tvg-chno="1895" tvg-...,Faith TV
+#EXTINF:1 channel-id="pluto-5c58a539fae3812612f33ca3" tvg-id="5c58a539fae3812612f33ca3" tvg-chno="89" group-title="TV Channels",Faith TV
 #EXTGRP:TV Channels
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5c58a539fae3812612f33ca3/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:1 channel-id="pluto-5f36d726234ce10007784f2a" tvg-id="5f36d726234ce10007784f2a" tvg-chno="1725" tvg-...,The Bob Ross Channel
+#EXTINF:1 channel-id="pluto-5f36d726234ce10007784f2a" tvg-id="5f36d726234ce10007784f2a" tvg-chno="500" group-title="TV Shows 24/7",The Bob Ross Channel
 #EXTGRP:TV Shows 24/7
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f36d726234ce10007784f2a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:1 channel-id="pluto-5d51e791b7dba3b2ae990ab2" tvg-id="5d51e791b7dba3b2ae990ab2" tvg-chno="1475" tvg-...,This Old House
+#EXTINF:1 channel-id="pluto-5d51e791b7dba3b2ae990ab2" tvg-id="5d51e791b7dba3b2ae990ab2" tvg-chno="501" group-title="TV Shows 24/7",This Old House
 #EXTGRP:TV Shows 24/7
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d51e791b7dba3b2ae990ab2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:1 channel-id="pluto-60f760bbdf090700075d7bfe" tvg-id="60f760bbdf090700075d7bfe" tvg-chno="1105" tvg-...,Dr. Phil
+#EXTINF:1 channel-id="pluto-60f760bbdf090700075d7bfe" tvg-id="60f760bbdf090700075d7bfe" tvg-chno="502" group-title="TV Shows 24/7",Dr. Phil
 #EXTGRP:TV Shows 24/7
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60f760bbdf090700075d7bfe/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:1 channel-id="pluto-62ec1332eb0fc5000770955a" tvg-id="62ec1332eb0fc5000770955a" tvg-chno="1093" tvg-...,Rachael Ray
+#EXTINF:1 channel-id="pluto-62ec1332eb0fc5000770955a" tvg-id="62ec1332eb0fc5000770955a" tvg-chno="503" group-title="TV Shows 24/7",Rachael Ray
 #EXTGRP:TV Shows 24/7
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62ec1332eb0fc5000770955a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:1 channel-id="pluto-5ce4475cd43850831ca91ce7" tvg-id="5ce4475cd43850831ca91ce7" tvg-chno="1410" tvg-...,Doctor Who
+#EXTINF:1 channel-id="pluto-5ce4475cd43850831ca91ce7" tvg-id="5ce4475cd43850831ca91ce7" tvg-chno="504" group-title="TV Shows 24/7",Doctor Who
 #EXTGRP:TV Shows 24/7
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ce4475cd43850831ca91ce7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:1 channel-id="pluto-62a8e433fbf5460007698214" tvg-id="62a8e433fbf5460007698214" tvg-chno="1367" tvg-...,Ed Sullivan Show
+#EXTINF:1 channel-id="pluto-62a8e433fbf5460007698214" tvg-id="62a8e433fbf5460007698214" tvg-chno="505" group-title="TV Shows 24/7",Ed Sullivan Show
 #EXTGRP:TV Shows 24/7
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62a8e433fbf5460007698214/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:1 channel-id="pluto-5e66928133461100077dfd73" tvg-id="5e66928133461100077dfd73" tvg-chno="1360" tvg-...,Johnny Carson TV
+#EXTINF:1 channel-id="pluto-5e66928133461100077dfd73" tvg-id="5e66928133461100077dfd73" tvg-chno="506" group-title="TV Shows 24/7",Johnny Carson TV
 #EXTGRP:TV Shows 24/7
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e66928133461100077dfd73/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:1 channel-id="pluto-5efbd39f8c4ce900075d7698" tvg-id="5efbd39f8c4ce900075d7698" tvg-chno="270" tvg-l...,Star Trek
+#EXTINF:1 channel-id="pluto-5efbd39f8c4ce900075d7698" tvg-id="5efbd39f8c4ce900075d7698" tvg-chno="507" group-title="TV Shows 24/7",Star Trek
 #EXTGRP:TV Shows 24/7
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5efbd39f8c4ce900075d7698/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:1 channel-id="pluto-620bfa7df72827000703ddb1" tvg-id="620bfa7df72827000703ddb1" tvg-chno="280" tvg-l...,Stargate
+#EXTINF:1 channel-id="pluto-620bfa7df72827000703ddb1" tvg-id="620bfa7df72827000703ddb1" tvg-chno="508" group-title="TV Shows 24/7",Stargate
 #EXTGRP:TV Shows 24/7
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/620bfa7df72827000703ddb1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:1 channel-id="pluto-60a3d889a5b3690008dc7fe8" tvg-id="60a3d889a5b3690008dc7fe8" tvg-chno="790" tvg-l...,Bar Rescue
+#EXTINF:1 channel-id="pluto-60a3d889a5b3690008dc7fe8" tvg-id="60a3d889a5b3690008dc7fe8" tvg-chno="509" group-title="TV Shows 24/7",Bar Rescue
 #EXTGRP:TV Shows 24/7
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60a3d889a5b3690008dc7fe8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:1 channel-id="pluto-5f21e7b24744c60007c1f6fc" tvg-id="5f21e7b24744c60007c1f6fc" tvg-chno="930" tvg-l...,Survivor
+#EXTINF:1 channel-id="pluto-5f21e7b24744c60007c1f6fc" tvg-id="5f21e7b24744c60007c1f6fc" tvg-chno="510" group-title="TV Shows 24/7",Survivor
 #EXTGRP:TV Shows 24/7
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f21e7b24744c60007c1f6fc/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:1 channel-id="pluto-5f21e8a6e2f12b000755afdb" tvg-id="5f21e8a6e2f12b000755afdb" tvg-chno="925" tvg-l...,The Amazing Race
+#EXTINF:1 channel-id="pluto-5f21e8a6e2f12b000755afdb" tvg-id="5f21e8a6e2f12b000755afdb" tvg-chno="511" group-title="TV Shows 24/7",The Amazing Race
 #EXTGRP:TV Shows 24/7
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f21e8a6e2f12b000755afdb/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:1 channel-id="pluto-5b4e99f4423e067bd6df6903" tvg-id="5b4e99f4423e067bd6df6903" tvg-chno="1630" tvg-...,Hell's Kitchen
+#EXTINF:1 channel-id="pluto-5b4e99f4423e067bd6df6903" tvg-id="5b4e99f4423e067bd6df6903" tvg-chno="512" group-title="TV Shows 24/7",Hell's Kitchen
 #EXTGRP:TV Shows 24/7
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5b4e99f4423e067bd6df6903/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:1 channel-id="pluto-59b722526996084038c01e1b" tvg-id="59b722526996084038c01e1b" tvg-chno="2180" tvg-...,IMPACT Wrestling
+#EXTINF:1 channel-id="pluto-59b722526996084038c01e1b" tvg-id="59b722526996084038c01e1b" tvg-chno="513" group-title="TV Shows 24/7",IMPACT Wrestling
 #EXTGRP:TV Shows 24/7
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/59b722526996084038c01e1b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:1 channel-id="pluto-545943f1c9f133a519bbac92" tvg-id="545943f1c9f133a519bbac92" tvg-chno="1240" tvg-...,MST3K
+#EXTINF:1 channel-id="pluto-545943f1c9f133a519bbac92" tvg-id="545943f1c9f133a519bbac92" tvg-chno="514" group-title="TV Shows 24/7",MST3K
 #EXTGRP:TV Shows 24/7
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/545943f1c9f133a519bbac92/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:1 channel-id="pluto-5e9debf8c881310007d7bde1" tvg-id="5e9debf8c881310007d7bde1" tvg-chno="1035" tvg-...,Deal or No Deal
+#EXTINF:1 channel-id="pluto-5e9debf8c881310007d7bde1" tvg-id="5e9debf8c881310007d7bde1" tvg-chno="515" group-title="TV Shows 24/7",Deal or No Deal
 #EXTGRP:TV Shows 24/7
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e9debf8c881310007d7bde1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:1 channel-id="pluto-5f7791b8372da90007fd45e6" tvg-id="5f7791b8372da90007fd45e6" tvg-chno="1025" tvg-...,The Price Is Right
+#EXTINF:1 channel-id="pluto-5f7791b8372da90007fd45e6" tvg-id="5f7791b8372da90007fd45e6" tvg-chno="526" group-title="TV Shows 24/7",The Price Is Right
 #EXTGRP:TV Shows 24/7
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f7791b8372da90007fd45e6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:1 channel-id="pluto-60f754f98185580007eb0754" tvg-id="60f754f98185580007eb0754" tvg-chno="1375" tvg-...,Matlock
+#EXTINF:1 channel-id="pluto-60f754f98185580007eb0754" tvg-id="60f754f98185580007eb0754" tvg-chno="527" group-title="TV Shows 24/7",Matlock
 #EXTGRP:TV Shows 24/7
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60f754f98185580007eb0754/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:1 channel-id="pluto-60f75178e7f8aa0007e9c259" tvg-id="60f75178e7f8aa0007e9c259" tvg-chno="1345" tvg-...,Andy Griffith
+#EXTINF:1 channel-id="pluto-60f75178e7f8aa0007e9c259" tvg-id="60f75178e7f8aa0007e9c259" tvg-chno="528" group-title="TV Shows 24/7",Andy Griffith
 #EXTGRP:TV Shows 24/7
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60f75178e7f8aa0007e9c259/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:1 channel-id="pluto-5f21e831e9fe730007706acb" tvg-id="5f21e831e9fe730007706acb" tvg-chno="955" tvg-l...,Rescue 911
+#EXTINF:1 channel-id="pluto-5f21e831e9fe730007706acb" tvg-id="5f21e831e9fe730007706acb" tvg-chno="529" group-title="TV Shows 24/7",Rescue 911
 #EXTGRP:TV Shows 24/7
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f21e831e9fe730007706acb/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:1 channel-id="pluto-6197086891ddd4000739941a" tvg-id="6197086891ddd4000739941a" tvg-chno="1385" tvg-...,Perry Mason
+#EXTINF:1 channel-id="pluto-6197086891ddd4000739941a" tvg-id="6197086891ddd4000739941a" tvg-chno="530" group-title="TV Shows 24/7",Perry Mason
 #EXTGRP:TV Shows 24/7
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6197086891ddd4000739941a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:1 channel-id="pluto-5efbd29e4aa26700076c0d06" tvg-id="5efbd29e4aa26700076c0d06" tvg-chno="550" tvg-l...,CSI
+#EXTINF:1 channel-id="pluto-5efbd29e4aa26700076c0d06" tvg-id="5efbd29e4aa26700076c0d06" tvg-chno="531" group-title="TV Shows 24/7",CSI
 #EXTGRP:TV Shows 24/7
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5efbd29e4aa26700076c0d06/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:1 channel-id="pluto-62f54c11b3af68000702c304" tvg-id="62f54c11b3af68000702c304" tvg-chno="551" tvg-l...,CSI: Miami
+#EXTINF:1 channel-id="pluto-62f54c11b3af68000702c304" tvg-id="62f54c11b3af68000702c304" tvg-chno="532" group-title="TV Shows 24/7",CSI: Miami
 #EXTGRP:TV Shows 24/7
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62f54c11b3af68000702c304/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:1 channel-id="pluto-62f54c6439183b000769fb8f" tvg-id="62f54c6439183b000769fb8f" tvg-chno="552" tvg-l...,CSI: NY
+#EXTINF:1 channel-id="pluto-62f54c6439183b000769fb8f" tvg-id="62f54c6439183b000769fb8f" tvg-chno="533" group-title="TV Shows 24/7",CSI: NY
 #EXTGRP:TV Shows 24/7
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62f54c6439183b000769fb8f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:1 channel-id="pluto-6283d51144ad8f0007fa382d" tvg-id="6283d51144ad8f0007fa382d" tvg-chno="1120" tvg-...,Judge Judy
+#EXTINF:1 channel-id="pluto-6283d51144ad8f0007fa382d" tvg-id="6283d51144ad8f0007fa382d" tvg-chno="534" group-title="TV Shows 24/7",Judge Judy
 #EXTGRP:TV Shows 24/7
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6283d51144ad8f0007fa382d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:1 channel-id="pluto-5d815eb889bca2ce7b746fdd" tvg-id="5d815eb889bca2ce7b746fdd" tvg-chno="250" tvg-l...,Baywatch
+#EXTINF:1 channel-id="pluto-5d815eb889bca2ce7b746fdd" tvg-id="5d815eb889bca2ce7b746fdd" tvg-chno="535" group-title="TV Shows 24/7",Baywatch
 #EXTGRP:TV Shows 24/7
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d815eb889bca2ce7b746fdd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:1 channel-id="pluto-61f07513227feb00073ee6bc" tvg-id="61f07513227feb00073ee6bc" tvg-chno="245" tvg-l...,Heartland
+#EXTINF:1 channel-id="pluto-61f07513227feb00073ee6bc" tvg-id="61f07513227feb00073ee6bc" tvg-chno="536" group-title="TV Shows 24/7",Heartland
 #EXTGRP:TV Shows 24/7
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61f07513227feb00073ee6bc/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:1 channel-id="pluto-5c6eeb85c05dfc257e5a50c4" tvg-id="5c6eeb85c05dfc257e5a50c4" tvg-chno="255" tvg-l...,Degrassi
+#EXTINF:1 channel-id="pluto-5c6eeb85c05dfc257e5a50c4" tvg-id="5c6eeb85c05dfc257e5a50c4" tvg-chno="537" group-title="TV Shows 24/7",Degrassi
 #EXTGRP:TV Shows 24/7
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5c6eeb85c05dfc257e5a50c4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:1 channel-id="pluto-5f4d83e0a382c00007bc02e7" tvg-id="5f4d83e0a382c00007bc02e7" tvg-chno="235" tvg-l...,90210
+#EXTINF:1 channel-id="pluto-5f4d83e0a382c00007bc02e7" tvg-id="5f4d83e0a382c00007bc02e7" tvg-chno="538" group-title="TV Shows 24/7",90210
 #EXTGRP:TV Shows 24/7
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4d83e0a382c00007bc02e7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:1 channel-id="pluto-627d355aa95efd00077afcc7" tvg-id="627d355aa95efd00077afcc7" tvg-chno="837" tvg-l...,Cheaters
+#EXTINF:1 channel-id="pluto-627d355aa95efd00077afcc7" tvg-id="627d355aa95efd00077afcc7" tvg-chno="539" group-title="TV Shows 24/7",Cheaters
 #EXTGRP:TV Shows 24/7
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/627d355aa95efd00077afcc7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:1 channel-id="pluto-5e1f7e089f23700009d66303" tvg-id="5e1f7e089f23700009d66303" tvg-chno="600" tvg-l...,COPS
+#EXTINF:1 channel-id="pluto-5e1f7e089f23700009d66303" tvg-id="5e1f7e089f23700009d66303" tvg-chno="540" group-title="TV Shows 24/7",COPS
 #EXTGRP:TV Shows 24/7
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e1f7e089f23700009d66303/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:1 channel-id="pluto-5b4e96a0423e067bd6df6901" tvg-id="5b4e96a0423e067bd6df6901" tvg-chno="620" tvg-l...,Unsolved Mysteries
+#EXTINF:1 channel-id="pluto-5b4e96a0423e067bd6df6901" tvg-id="5b4e96a0423e067bd6df6901" tvg-chno="541" group-title="TV Shows 24/7",Unsolved Mysteries
 #EXTGRP:TV Shows 24/7
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5b4e96a0423e067bd6df6901/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:1 channel-id="pluto-6176f39e709f160007ec61c3" tvg-id="6176f39e709f160007ec61c3" tvg-chno="595" tvg-l...,48 Hours
+#EXTINF:1 channel-id="pluto-6176f39e709f160007ec61c3" tvg-id="6176f39e709f160007ec61c3" tvg-chno="542" group-title="TV Shows 24/7",48 Hours
 #EXTGRP:TV Shows 24/7
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6176f39e709f160007ec61c3/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:1 channel-id="pluto-60fb321ee99fac0008c9ab8a" tvg-id="60fb321ee99fac0008c9ab8a" tvg-chno="423" tvg-l...,60 Minutes
+#EXTINF:1 channel-id="pluto-60fb321ee99fac0008c9ab8a" tvg-id="60fb321ee99fac0008c9ab8a" tvg-chno="543" group-title="TV Shows 24/7",60 Minutes
 #EXTGRP:TV Shows 24/7
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60fb321ee99fac0008c9ab8a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:1 channel-id="pluto-5e84f54a82f05300080e6746" tvg-id="5e84f54a82f05300080e6746" tvg-chno="1620" tvg-...,America's Test Kitchen
+#EXTINF:1 channel-id="pluto-5e84f54a82f05300080e6746" tvg-id="5e84f54a82f05300080e6746" tvg-chno="544" group-title="TV Shows 24/7",America's Test Kitchen
 #EXTGRP:TV Shows 24/7
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e84f54a82f05300080e6746/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:1 channel-id="pluto-615b8ec39e878900073f419a" tvg-id="615b8ec39e878900073f419a" tvg-chno="1510" tvg-...,Antiques Road Trip
+#EXTINF:1 channel-id="pluto-615b8ec39e878900073f419a" tvg-id="615b8ec39e878900073f419a" tvg-chno="545" group-title="TV Shows 24/7",Antiques Road Trip
 #EXTGRP:TV Shows 24/7
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/615b8ec39e878900073f419a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:1 channel-id="pluto-5ce44810b421747ae467b7cd" tvg-id="5ce44810b421747ae467b7cd" tvg-chno="1505" tvg-...,Antiques Roadshow UK
+#EXTINF:1 channel-id="pluto-5ce44810b421747ae467b7cd" tvg-id="5ce44810b421747ae467b7cd" tvg-chno="546" group-title="TV Shows 24/7",Antiques Roadshow UK
 #EXTGRP:TV Shows 24/7
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ce44810b421747ae467b7cd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
