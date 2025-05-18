@@ -1,40 +1,40 @@
 ﻿#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_CA1.xml.gz"
-#EXTINF:0 group-title="OTA Channels" tvg-id="CBC.Television.ca" ,CBC Television
-https://cbcrclinear-tor.akamaized.net/hls/live/2042760/CBCRCLINEAR_TOR_6/master5.m3u8
-#EXTINF:0 group-title="News Channels" tvg-id="CBC.News.Network.ca" ,CBC News Network
+#EXTINF:0 group-title="OTA Channels" tvg-id="CBC.(CBHT).Halifax,.NS.ca" tvg-name="CBC Television",CBC Television
+https://cbcrclinear-tor.akamaized.net/hls/live/2042758/CBCRCLINEAR_TOR_4/master5.m3u8
+#EXTINF:0 group-title="News Channels" tvg-id="CBC.News.Network.ca" tvg-name="CBC News Network",CBC News Network
 https://cbcrclinear-tor.akamaized.net/hls/live/2042769/geo_allow_ca/CBCRCLINEAR_TOR_15/master5.m3u8
-#EXTINF:0 group-title="News Channels" tvg-id="Weather.Network.ca" ,The Weather Network
+#EXTINF:0 group-title="News Channels" tvg-id="Weather.Network.ca" tvg-name="The Weather Network",The Weather Network
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01442-pelmorexcorp-theweathernetwork-lgca/playlist.m3u8
-#EXTINF:0 group-title="News Channels" tvg-id="CNN.HD.ca" ,Cable News Network
+#EXTINF:0 group-title="News Channels" tvg-id="CNN.HD.ca" tvg-name="Cable News Network",Cable News Network
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:0 group-title="News Channels" tvg-id="HLN.HD.ca" ,Headline News Network
+#EXTINF:0 group-title="News Channels" tvg-id="HLN.HD.ca" tvg-name="Headline News Network",Headline News Network
 https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
-#EXTINF:0 group-title="Scripps TV" tvg-id="ION..-.Eastern.Feed.us" ,Ion TV
+#EXTINF:0 group-title="Scripps TV" tvg-id="ION..-.Eastern.Feed.us" tvg-name="Ion TV",Ion TV
 https://scripps-ion-1-us.lg.wurl.tv/playlist.m3u8
-#EXTINF:0 group-title="Scripps TV" tvg-id="ION.Plus.TV.us" tvg-logo="https://provider-static.plex.tv/d/epg/channels/logos/gracenote/d9ffc2a721dcd3dd66b79e0540ee79e0.png" ,Ion Plus
+#EXTINF:0 group-title="Scripps TV" tvg-id="ION.Plus.TV.us" tvg-name="Ion Plus",Ion Plus
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,ION-Plus.m3u8
-#EXTINF:0 group-title="Scripps TV" tvg-id="Court.TV.US.us" tvg-logo="https://provider-static.plex.tv/c/epg/channels/logos/gracenote/cf8eff55131dbdeb17ca980769b79a3c.png" ,Court TV
+#EXTINF:0 group-title="Scripps TV" tvg-id="Court.TV.US.us" tvg-name="Court TV",Court TV
 https://scripps-courttv-3-ca.lg.wurl.tv/playlist.m3u8
-#EXTINF:0 group-title="Cable Channel" tvg-id="Lifetime.Network.US.-.Eastern.Feed.us" ,Lifetime
+#EXTINF:0 group-title="Cable Channel" tvg-id="Lifetime.Network.US.-.Eastern.Feed.us" tvg-name="Lifetime",Lifetime
 http://fl3.moveonjoy.com/LIFETIME/index.m3u8
-#EXTINF:0 group-title="Cable Channel" tvg-id="National.Geographic.US.-.Eastern.us" ,National Geographic
+#EXTINF:0 group-title="Cable Channel" tvg-id="National.Geographic.US.-.Eastern.us" tvg-name="National Geographic",National Geographic
 http://fl3.moveonjoy.com/National_Geographic/index.m3u8
-#EXTINF:0 group-title="Cable Channel" tvg-id="Much.Music.ca" ,MuchTV
+#EXTINF:0 group-title="Cable Channel" tvg-id="Much.Music.ca" tvg-name="MuchTV",MuchTV
 http://fl1.moveonjoy.com/MUCH/index.m3u8
-#EXTINF:0 group-title="Cable Channel" tvg-id="W.Network.Canada.East.(WTN).ca" ,W! Network
+#EXTINF:0 group-title="Cable Channel" tvg-id="W.Network.Canada.East.(WTN).ca" tvg-name="W! Network",W! Network
 http://fl3.moveonjoy.com/W_NETWORK/index.m3u8
-#EXTINF:0 group-title="Cable Channel" tvg-id="Disney.-.Eastern.Feed.us" ,Disney Channel
+#EXTINF:0 group-title="Cable Channel" tvg-id="Disney.-.Eastern.Feed.us" tvg-name="Disney Channel",Disney Channel
 http://fl5.moveonjoy.com/DISNEY/index.m3u8
-#EXTINF:0 group-title="Cable Channel" tvg-id="Disney.XD.USA.-.Eastern.Feed.us" ,Disney XD
+#EXTINF:0 group-title="Cable Channel" tvg-id="Disney.XD.USA.-.Eastern.Feed.us" tvg-name="Disney XD",Disney XD
 http://fl3.moveonjoy.com/DISNEY_XD/index.m3u8
-#EXTINF:0 group-title="Sports" tvg-id="TSN1.ca" ,TSN 1
+#EXTINF:0 group-title="Sports" tvg-id="TSN1.ca" tvg-name="TSN 1",TSN 1
 http://fl5.moveonjoy.com/TSN_1/index.m3u8
-#EXTINF:0 group-title="Sports" tvg-id="TSN2.ca" ,TSN 2
+#EXTINF:0 group-title="Sports" tvg-id="TSN2.ca" tvg-name="TSN 2",TSN 2
 http://fl5.moveonjoy.com/TSN_2/index.m3u8
-#EXTINF:0 group-title="Sports" tvg-id="TSN3.ca" ,TSN 3
+#EXTINF:0 group-title="Sports" tvg-id="TSN3.ca" tvg-name="TSN 3",TSN 3
 http://fl5.moveonjoy.com/TSN_3/index.m3u8
-#EXTINF:0 group-title="Sports" tvg-id="TSN4.ca" ,TSN 4
+#EXTINF:0 group-title="Sports" tvg-id="TSN4.ca" tvg-name="TSN 4",TSN 4
 http://fl5.moveonjoy.com/TSN_4/index.m3u8
-#EXTINF:0 group-title="Sports" tvg-id="TSN5.ca" ,TSN 5
+#EXTINF:0 group-title="Sports" tvg-id="TSN5.ca" tvg-name="TSN 5",TSN 5
 http://fl5.moveonjoy.com/TSN_5/index.m3u8
 
