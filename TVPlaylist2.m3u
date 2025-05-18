@@ -1,4 +1,4 @@
-﻿#EXTM3U #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_CA1.xml.gz"
+﻿#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_CA1.xml.gz"
 #EXTINF:0 group-title="Over the Air TV" tvg-name="CBC.(CBHT).Halifax,.NS.ca" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cbc-ca.png" ,CBC Television
 https://cbcrclinear-tor.akamaized.net/hls/live/2042758/CBCRCLINEAR_TOR_4/master5.m3u8
 #EXTINF:0 group-title="Over the Air TV" tvg-name="CHCH.Hamilton,.ON.HD.ca" tvg-logo="https://www.lyngsat.com/logo/tv/cc/chch_hamilton.png" ,CHCH Hamilton
