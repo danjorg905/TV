@@ -1,8 +1,6 @@
 ﻿#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_CA1.xml.gz"
-#EXTINF:0 group-title="Over the Air TV" tvg-name="CBC.(CBHT).Halifax,.NS.ca" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cbc-ca.png" ,CBC Television
+#EXTINF:0 group-title="Over the Air TV" tvg-name="CBHT.Halifax.(CBHT).ca" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cbc-ca.png" ,CBC Television
 https://cbcrclinear-tor.akamaized.net/hls/live/2042758/CBCRCLINEAR_TOR_4/master5.m3u8
-#EXTINF:0 group-title="Over the Air TV" tvg-name="CHCH.Hamilton,.ON.HD.ca" tvg-logo="https://www.lyngsat.com/logo/tv/cc/chch_hamilton.png" ,CHCH Hamilton
-https://flowcaster1-on.cdn.clearcable.net/CHCH-OTT/smil:CHCH-OTT.smil/chunklist_w197212025_b3160000_sleng.m3u8?iimae0UC2aendtime=1732235317&iimae0UC2ahash=JSVsJvt0drVbTiPlGxnHsklzgPF_JXUmgb-f4q4_Cok%3D
 #EXTINF:0 group-title="News Channels" tvg-name="CBC.News.Network.ca" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cbc-news-network-ca.png" ,CBC News Network
 https://cbcrclinear-tor.akamaized.net/hls/live/2042769/geo_allow_ca/CBCRCLINEAR_TOR_15/master5.m3u8
 #EXTINF:0 group-title="News Channels" tvg-name="Weather.Network.ca" tvg-logo="https://www.lyngsat.com/logo/tv/tt/the_weather_network_ca_tv.png" ,Weather Network
