@@ -1,0 +1,35 @@
+﻿#EXTM3U #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_CA1.xml.gz"
+#EXTINF:0 group-title="Over the Air TV" tvg-name="CBC.(CBHT).Halifax,.NS.ca" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cbc-ca.png" ,CBC Television
+https://cbcrclinear-tor.akamaized.net/hls/live/2042758/CBCRCLINEAR_TOR_4/master5.m3u8
+#EXTINF:0 group-title="Over the Air TV" tvg-name="CHCH.Hamilton,.ON.HD.ca" tvg-logo="https://www.lyngsat.com/logo/tv/cc/chch_hamilton.png" ,CHCH Hamilton
+https://flowcaster1-on.cdn.clearcable.net/CHCH-OTT/smil:CHCH-OTT.smil/chunklist_w197212025_b3160000_sleng.m3u8?iimae0UC2aendtime=1732235317&iimae0UC2ahash=JSVsJvt0drVbTiPlGxnHsklzgPF_JXUmgb-f4q4_Cok%3D
+#EXTINF:0 group-title="News Channels" tvg-name="CBC.News.Network.ca" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cbc-news-network-ca.png" ,CBC News Network
+https://cbcrclinear-tor.akamaized.net/hls/live/2042769/geo_allow_ca/CBCRCLINEAR_TOR_15/master5.m3u8
+#EXTINF:0 group-title="News Channels" tvg-name="Weather.Network.ca" tvg-logo="https://www.lyngsat.com/logo/tv/tt/the_weather_network_ca_tv.png" ,Weather Network
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01442-pelmorexcorp-theweathernetwork-lgca/playlist.m3u8
+#EXTINF:0 group-title="News Channels" tvg-name="CNN.HD.ca" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cnn-us.svg" ,Cable News Network
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:0 group-title="News Channels" tvg-name="HLN.HD.ca" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hln_us.png" ,Headline News Network
+https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
+#EXTINF:0 group-title="Cable Channel" tvg-name="Lifetime.Network.US.-.Eastern.Feed.us" tvg-logo="https://www.lyngsat.com/logo/tv/ll/lifetime-us.png" ,Lifetime
+http://fl3.moveonjoy.com/LIFETIME/index.m3u8
+#EXTINF:0 group-title="Cable Channel" tvg-name="National.Geographic.US.-.Eastern.us" tvg-logo="https://www.lyngsat.com/logo/tv/nn/national-geographic-us.svg" ,National Geographic
+http://fl3.moveonjoy.com/National_Geographic/index.m3u8
+#EXTINF:0 group-title="Cable Channel" tvg-name="Much.Music.ca" tvg-logo="https://www.lyngsat.com/logo/tv/mm/much-ca.png" ,MuchTV
+http://fl1.moveonjoy.com/MUCH/index.m3u8
+#EXTINF:0 group-title="Cable Channel" tvg-name="W.Network.Canada.East.(WTN).ca" tvg-logo="https://www.lyngsat.com/logo/tv/ww/w_network_west.png" ,W! Network
+http://fl3.moveonjoy.com/W_NETWORK/index.m3u8
+#EXTINF:0 group-title="Cable Channel" tvg-name="Disney.-.Eastern.Feed.us" tvg-logo="https://www.lyngsat.com/logo/tv/dd/disney-channel-us.svg" ,Disney Channel
+http://fl5.moveonjoy.com/DISNEY/index.m3u8
+#EXTINF:0 group-title="Cable Channel" tvg-name="Disney.XD.USA.-.Eastern.Feed.us" tvg-logo="https://www.lyngsat.com/logo/tv/dd/disney_xd_us.png" ,Disney XD
+http://fl3.moveonjoy.com/DISNEY_XD/index.m3u8
+#EXTINF:0 group-title="Sports" tvg-name="TSN1.ca" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tsn-1-ca.svg" ,TSN 1
+http://fl5.moveonjoy.com/TSN_1/index.m3u8
+#EXTINF:0 group-title="Sports" tvg-id="TSN2.ca" tvg-name="The Sports Network 2" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tsn-2-ca.svg" ,TSN 2
+http://fl5.moveonjoy.com/TSN_2/index.m3u8
+#EXTINF:0 group-title="Sports" tvg-name="TSN3.ca" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tsn-3-ca.svg" ,TSN 3
+http://fl5.moveonjoy.com/TSN_3/index.m3u8
+#EXTINF:0 group-title="Sports" tvg-name="TSN4.ca" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tsn-4-ca.svg" ,TSN 4
+http://fl5.moveonjoy.com/TSN_4/index.m3u8
+#EXTINF:0 group-title="Sports" tvg-name="TSN5.ca" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tsn-5-ca.svg" ,TSN 5
+http://fl5.moveonjoy.com/TSN_5/index.m3u8
