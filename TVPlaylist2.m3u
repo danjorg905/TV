@@ -19,8 +19,14 @@ https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,I
 https://scripps-courttv-3-ca.lg.wurl.tv/playlist.m3u8
 #EXTINF:0 group-title="Cable Channel" tvg-id="Lifetime.Network.US.-.Eastern.Feed.us" tvg-name="Lifetime",Lifetime
 http://fl3.moveonjoy.com/LIFETIME/index.m3u8
+#EXTINF:0 group-title="Cable Channel" tvg-id="A.and.E.US.-.Eastern.Feed.us" tvg-name="A&E TV",A&E TV
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/212
+#EXTINF:0 group-title="Cable Channel" tvg-id="History.Channel.US.-.Eastern.Feed.us" tvg-name="History TV",History TV
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/153
 #EXTINF:0 group-title="Cable Channel" tvg-id="National.Geographic.US.-.Eastern.us" tvg-name="National Geographic",National Geographic
 http://fl3.moveonjoy.com/National_Geographic/index.m3u8
+#EXTINF:0 group-title="Cable Channel" tvg-id="Discovery.Channel.(US).-.Eastern.Feed.us" tvg-name="Discovery Channel",Discovery Channel
+http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
 #EXTINF:0 group-title="Cable Channel" tvg-id="Much.Music.ca" tvg-name="MuchTV",MuchTV
 http://fl1.moveonjoy.com/MUCH/index.m3u8
 #EXTINF:0 group-title="Cable Channel" tvg-id="W.Network.Canada.East.(WTN).ca" tvg-name="W! Network",W! Network
