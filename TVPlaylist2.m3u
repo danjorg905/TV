@@ -37,10 +37,20 @@ https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_356
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:0 group-title="Cable Channel" tvg-id="Turner.Classic.Movies.USA.us" tvg-name="Turner Classic Movies" ,Turner Classic Movies
 https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
+#EXTINF:0 group-title="Cable Channel" tvg-id="AMC.-.Eastern.Feed.us" tvg-name="American Movie Classics" ,American Movie Classics
+http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
+#EXTINF:0 group-title="Cable Channel" tvg-id="USA.Network.-.East.Feed.us" tvg-name="USA Network" ,USA Network
+http://fl3.moveonjoy.com/USA_NETWORK/index.m3u8
 #EXTINF:0 group-title="Cable Channel" tvg-id="Disney.-.Eastern.Feed.us" tvg-name="Disney Channel",Disney Channel
 http://fl5.moveonjoy.com/DISNEY/index.m3u8
 #EXTINF:0 group-title="Cable Channel" tvg-id="Disney.XD.USA.-.Eastern.Feed.us" tvg-name="Disney XD",Disney XD
 http://fl3.moveonjoy.com/DISNEY_XD/index.m3u8
+#EXTINF:0 group-title="Cable Channel" tvg-id="FX.Networks.East.Coast.us" tvg-name="FX Network",FX Network
+http://fl5.moveonjoy.com/FX/index.m3u8
+#EXTINF:0 group-title="Cable Channel" tvg-id="FXX.USA.-.Eastern.us" tvg-name="FXX Network",FXX Network
+http://fl3.moveonjoy.com/FXX/index.m3u8
+#EXTINF:0 group-title="Cable Channel" tvg-id="AdultSwim.com.Cartoon.Network.us" tvg-name="Adult Swim",Adult Swim
+https://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_5128000.m3u8
 #EXTINF:0 group-title="Sports" tvg-id="TSN1.ca" tvg-name="TSN 1",TSN 1
 http://fl5.moveonjoy.com/TSN_1/index.m3u8
 #EXTINF:0 group-title="Sports" tvg-id="TSN2.ca" tvg-name="TSN 2",TSN 2
