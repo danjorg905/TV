@@ -46,7 +46,7 @@ https://08d094beeb6e40f1b1d7339005941392.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:0 group-title="Cable Channel" tvg-id="Lifetime.Network.US.-.Eastern.Feed.us" tvg-name="Lifetime",Lifetime
 http://fl3.moveonjoy.com/LIFETIME/index.m3u8
 #EXTINF:0 group-title="Cable Channel" tvg-id="A.and.E.US.-.Eastern.Feed.us" tvg-name="A&E TV",A&E TV
-http://cdn1host.online:2999/kratorius/opLcbhlXaT/212
+https://tvpass.org/live/AEEast/hd
 #EXTINF:0 group-title="Cable Channel" tvg-id="History.Channel.US.-.Eastern.Feed.us" tvg-name="History TV",History TV
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/153
 #EXTINF:0 group-title="Cable Channel" tvg-id="National.Geographic.US.-.Eastern.us" tvg-name="National Geographic",National Geographic
