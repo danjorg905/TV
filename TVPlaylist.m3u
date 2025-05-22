@@ -39,15 +39,23 @@ https://cvtv.cvalley.net/hls/KSMOIND/KSMOIND.m3u8
 https://cvtv.cvalley.net/hls/KZOUMYZOU/KZOUMYZOU.m3u8
 #EXTINF:-1 tvg-id="Me.TV.us" tvg-name="MeTV" ,MeTV
 https://cvtv.cvalley.net/hls/KMBCMeTV/KMBCMeTV.m3u8
-#EXTINF:-1 tvg-id="Antenna.TV.us" ,AntennaTV
+#EXTINF:-1 tvg-id="Start.TV.us" tvg-name="StartTV" ,StartTV
+http://fl3.moveonjoy.com/Start_Tv/index.m3u8
+#EXTINF:-1 tvg-id="Antenna.TV.us" tvg-name="AntennaTV" ,AntennaTV
 https://cvtv.cvalley.net/hls/WDAFAntenna/WDAFAntenna.m3u8
-#EXTINF:-1 tvg-id="Comet.TV.us" tvg-name="Comet - KRCG" ,Comet
+#EXTINF:-1 tvg-id="Cozi.TV.us" tvg-name="CoziTV" ,CoziTV
+http://fl3.moveonjoy.com/COZI_TV/index.m3u8
+#EXTINF:-1 tvg-id="Comet.TV.us" tvg-name="Comet" ,Comet
 https://cvtv.cvalley.net/hls/KRCGComet/KRCGComet.m3u8
-#EXTINF:-1 tvg-id="ION.TV.East.us" tvg-name="ION - KPXE" ,ION
+#EXTINF:-1 tvg-id="ION.TV.East.us" tvg-name="ION" ,ION
 https://cvtv.cvalley.net/hls/KPXEION/KPXEION.m3u8
-#EXTINF:-1 tvg-id="Grit.TV.us" tvg-name="Griti - KSHB" ,Grit
+#EXTINF:-1 tvg-id="Grit.TV.us" tvg-name="Griti" ,Grit
 https://cvtv.cvalley.net/hls/KSHBCozi/KSHBCozi.m3u8
-#EXTINF:-1 tvg-id="Laff.TV.us" tvg-name="Laff - KSHB" ,Laff
+#EXTINF:-1 tvg-id="Laff.TV.us" tvg-name="Laff" ,Laff
 https://cvtv.cvalley.net/hls/KSHBLaff/KSHBLaff.m3u8
-#EXTINF:-1 tvg-id="Bounce.TV.us" tvg-name="BounceTV - KMCI" ,BounceTV
+#EXTINF:-1 tvg-id="Get.TV.us" tvg-name="GetTV" ,GetTV
+http://fl3.moveonjoy.com/GET_TV/index.m3u8
+#EXTINF:-1 tvg-id="Bounce.TV.us" tvg-name="BounceTV" ,BounceTV
 https://cvtv.cvalley.net/hls/KMCIBounceTV/KMCIBounceTV.m3u8
+#EXTINF:-1 tvg-id="Buzzr.TV.us" tvg-name="Buzzr!" ,Buzzr!
+http://fl3.moveonjoy.com/Buzzr/index.m3u8
