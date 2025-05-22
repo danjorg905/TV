@@ -21,6 +21,16 @@ https://cvtv.cvalley.net/hls/KTVOCBS/KTVOCBS.m3u8
 https://cvtv.cvalley.net/hls/KCPTPBS/KCPTPBS.m3u8
 #EXTINF:-1 tvg-id="PBS.(KMOS).Warrensburg,.MO.us" tvg-name="PBS - KMOS" ,PBS - KMOS
 https://cvtv.cvalley.net/hls/KMOSPBS/KMOSPBS.m3u8
+#EXTINF:-1 tvg-id="PBS.(WKLE).Lexington-Richmond,.KY.us" tvg-name="PBS - WKLE" ,PBS - WKLE
+https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8
+#EXTINF:-1 tvg-id="PBS.(WMPT).Annapolis,.MD.us" tvg-name="PBS Baltimore MD" ,PBS - WMPT
+https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
+#EXTINF:-1 tvg-id="PBS.World.us" tvg-name="PBS World" ,PBS World
+https://2-fss-1.streamhoster.com/pl_122/amlst:200914-2942150/playlist.m3u8
+#EXTINF:-1 tvg-id="Create.TV.us" tvg-name="PBS Create" ,PBS Create
+https://2-fss-1.streamhoster.com/pl_122/amlst:201814-2122456/playlist.m3u8
+#EXTINF:-1 tvg-id="PBS.Kids.us" tvg-name="PBS Kids" ,PBS Kids
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 #EXTINF:-1 tvg-id="CW.(KCWE).Kansas.City,.MO.us" tvg-name="CW - KCWE" ,CW - KCWE
 https://cvtv.cvalley.net/hls/KCWECW/KCWECW.m3u8
 #EXTINF:-1 tvg-id="CW.(KOMU-TV3).+.Columbia,.MO.us" tvg-name="CW - KOMU" ,CW - KOMU
@@ -36,7 +46,7 @@ https://cvtv.cvalley.net/hls/KMCIIND/KMCIIND.m3u8
 #EXTINF:-1 tvg-id="MNT.(KSMO).Kansas.City,.MO.us" tvg-name="MyNetworkTV - KSMO" ,MyNetworkTV - KSMO
 https://cvtv.cvalley.net/hls/KSMOIND/KSMOIND.m3u8
 #EXTINF:-1 tvg-id="MNT.(KMIZ-DT3).Columbia,.MO.us" tvg-name="MyNetworkTV - KMIZ" ,MyNetworkTV - KMIZ
-https://cvtv.cvalley.net/hls/KZOUMYZOU/KZOUMYZOU.m3u8
+https://cvtv.cvalley.net/hls/KZOUMYZOU/KZOUMYZOU.m3u8+-
 #EXTINF:-1 tvg-id="Me.TV.us" tvg-name="MeTV" ,MeTV
 https://cvtv.cvalley.net/hls/KMBCMeTV/KMBCMeTV.m3u8
 #EXTINF:-1 tvg-id="Start.TV.us" tvg-name="StartTV" ,StartTV
