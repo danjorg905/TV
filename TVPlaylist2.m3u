@@ -4,9 +4,9 @@ https://cbcrclinear-tor.akamaized.net/hls/live/2042758/CBCRCLINEAR_TOR_4/master5
 #EXTINF:0 group-title="OTA Channels" tvg-id="CHCH.Hamilton,.ON.ca" tvg-name="CHCH TV",CHCH TV
 https://flowcaster1-on.cdn.clearcable.net/CHCH-OTT/smil:CHCH-OTT.smil/chunklist_w197212025_b3160000_sleng.m3u8?iimae0UC2aendtime=1732235317&iimae0UC2ahash=JSVsJvt0drVbTiPlGxnHsklzgPF_JXUmgb-f4q4_Cok%3D
 #EXTINF:0 group-title="OTA Channels" tvg-id="NBC.(WNBC).New.York,.NY.us" tvg-name="NBC Network",NBC Network
-http://fl1.moveonjoy.com/NBC_EAST/index.m3u8
+https://tvpass.org/live/WNBCDT1/sd
 #EXTINF:0 group-title="OTA Channels" tvg-id="FOX.(WNYW).New.York,.NY.us" tvg-name="FOX Network",FOX Network
-http://fl1.moveonjoy.com/FOX_EAST/index.m3u8
+https://tvpass.org/live/WNYWDT1/sd
 #EXTINF:0 group-title="News Channels" tvg-id="CBC.News.Network.ca" tvg-name="CBC News Network",CBC News Network
 https://cbcrclinear-tor.akamaized.net/hls/live/2042769/geo_allow_ca/CBCRCLINEAR_TOR_15/master5.m3u8
 #EXTINF:0 group-title="News Channels" tvg-id="Weather.Network.ca" tvg-name="The Weather Network",The Weather Network
@@ -15,8 +15,8 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01442-pelmorexcorp-theweathernetwor
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:0 group-title="News Channels" tvg-id="HLN.HD.ca" tvg-name="Headline News Network",Headline News Network
 https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
-#EXTINF:0 group-title="News Channels" tvg-id="plex.tv.Newsmax2.plex" tvg-name="Newsmax" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/newsmax/Newsmax+Logo_200x800.png",Newsmax
-https://amg00217-newsmax-amg00217c2-lg-ca-4271.playouts.now.amagi.tv/playlist/amg00217-newsmaxmediafast-newsmaxn1-lgca/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]
+#EXTINF:0 group-title="News Channels" tvg-id="NewsMax.TV.us" tvg-name="Newsmax" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/newsmax/Newsmax+Logo_200x800.png",Newsmax
+https://tvpass.org/live/NewsmaxTV/sd
 #EXTINF:0 group-title="News Channels" tvg-id="NewsNation.-.Eastern.Feed.us" tvg-name="NewsNation",NewsNation
 http://fl3.moveonjoy.com/NEWS_NATION/index.m3u8
 #EXTINF:0 group-title="Scripps TV" tvg-id="plex.tv.ION.plex" tvg-name="Ion TV" tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1116-LG-Logo-PNG-100x100_v4.png",Ion TV
@@ -50,7 +50,7 @@ https://tvpass.org/live/AEEast/hd
 #EXTINF:0 group-title="Cable Channel" tvg-id="History.Channel.US.-.Eastern.Feed.us" tvg-name="History TV",History TV
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/153
 #EXTINF:0 group-title="Cable Channel" tvg-id="National.Geographic.US.-.Eastern.us" tvg-name="National Geographic",National Geographic
-http://fl3.moveonjoy.com/National_Geographic/index.m3u8
+https://tvpass.org/live/NationalGeographicEast/sd
 #EXTINF:0 group-title="Cable Channel" tvg-id="Discovery.Channel.(US).-.Eastern.Feed.us" tvg-name="Discovery Channel",Discovery Channel
 http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
 #EXTINF:0 group-title="Cable Channel" tvg-id="Much.Music.ca" tvg-name="MuchTV",MuchTV
@@ -66,29 +66,23 @@ https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5
 #EXTINF:0 group-title="Cable Channel" tvg-id="AMC.-.Eastern.Feed.us" tvg-name="American Movie Classics" ,American Movie Classics
 http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
 #EXTINF:0 group-title="Cable Channel" tvg-id="USA.Network.-.East.Feed.us" tvg-name="USA Network" ,USA Network
-http://fl3.moveonjoy.com/USA_NETWORK/index.m3u8
+https://tvpass.org/live/USANetworkEast/sd
 #EXTINF:0 group-title="Cable Channel" tvg-id="Disney.-.Eastern.Feed.us" tvg-name="Disney Channel",Disney Channel
-http://fl5.moveonjoy.com/DISNEY/index.m3u8
+https://tvpass.org/live/DisneyChannelEast/sd
 #EXTINF:0 group-title="Cable Channel" tvg-id="Disney.XD.USA.-.Eastern.Feed.us" tvg-name="Disney XD",Disney XD
-http://fl3.moveonjoy.com/DISNEY_XD/index.m3u8
+https://tvpass.org/live/DisneyXDEast/sd
 #EXTINF:0 group-title="Cable Channel" tvg-id="FX.Networks.East.Coast.us" tvg-name="FX Network",FX Network
-http://fl5.moveonjoy.com/FX/index.m3u8
+https://tvpass.org/live/FXEast/sd
 #EXTINF:0 group-title="Cable Channel" tvg-id="FXX.USA.-.Eastern.us" tvg-name="FXX Network",FXX Network
-http://fl3.moveonjoy.com/FXX/index.m3u8
+https://tvpass.org/live/FXXEast/sd
 #EXTINF:0 group-title="Cable Channel" tvg-id="Freeform.-.East.Feed.us" tvg-name="Freeform",Freeform
 http://fl3.moveonjoy.com/FREE_FORM/index.m3u8
 #EXTINF:0 group-title="Cable Channel" tvg-id="AdultSwim.com.Cartoon.Network.us" tvg-name="Adult Swim",Adult Swim
 https://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_5128000.m3u8
-#EXTINF:0 group-title="Sports" tvg-id="TSN1.ca" tvg-name="TSN 1",TSN 1
-http://fl5.moveonjoy.com/TSN_1/index.m3u8
+#EXTINF:0 group-title="Sports" tvg-id="TSN5.ca" tvg-name="TSN",TSN
+https://tvpass.org/live/tsn5/sd
 #EXTINF:0 group-title="Sports" tvg-id="TSN2.ca" tvg-name="TSN 2",TSN 2
-http://fl5.moveonjoy.com/TSN_2/index.m3u8
-#EXTINF:0 group-title="Sports" tvg-id="TSN3.ca" tvg-name="TSN 3",TSN 3
-http://fl5.moveonjoy.com/TSN_3/index.m3u8
-#EXTINF:0 group-title="Sports" tvg-id="TSN4.ca" tvg-name="TSN 4",TSN 4
-http://fl5.moveonjoy.com/TSN_4/index.m3u8
-#EXTINF:0 group-title="Sports" tvg-id="TSN5.ca" tvg-name="TSN 5",TSN 5
-http://fl5.moveonjoy.com/TSN_5/index.m3u8
+https://tvpass.org/live/tsn2/sd
 #EXTINF:-1 group-title="Movies Channels" tvg-id="Paramount+.with.Showtime.-.Eastern.Feed.us" tvg-name="Showtime",Showtime
 http://fl3.moveonjoy.com/SHOWTIME/index.m3u8
 #EXTINF:-1 group-title="Movies Channels" tvg-id="Showtime.2.-.Eastern.us" tvg-name="Showtime 2",Showtime 2
