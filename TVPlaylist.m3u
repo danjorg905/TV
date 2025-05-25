@@ -5,6 +5,8 @@ https://cvtv.cvalley.net/hls/KMBCABC/KMBCABC.m3u8
 https://cvtv.cvalley.net/hls/KMIZABC/KMIZABC.m3u8
 #EXTINF:-1 tvg-id="ABC.(KTVO).Kirskville,.MO.us" tvg-name="ABC - KTVO" ,ABC - KTVO
 https://cvtv.cvalley.net/hls/KTVOABC/KTVOABC.m3u8
+#EXTINF:-1 tvg-id="NBC.(WRC).District.of.Columbia.us" tvg-name="NBC - WRC" ,NBC - WRC
+http://fl1.moveonjoy.com/NBC_EAST/index.m3u8
 #EXTINF:-1 tvg-id="NBC.(KOMU).Columbia,.MO.us" tvg-name="NBC - KOMU" ,NBC - KOMU
 https://cvtv.cvalley.net/hls/KOMUNBC/KOMUNBC.m3u8
 #EXTINF:-1 tvg-id="NBC.(KSHB).Kansas.City,.MO.us" tvg-name="NBC - KSHB" ,NBC - KSHB
@@ -31,12 +33,14 @@ https://2-fss-1.streamhoster.com/pl_122/amlst:200914-2942150/playlist.m3u8
 https://2-fss-1.streamhoster.com/pl_122/amlst:201814-2122456/playlist.m3u8
 #EXTINF:-1 tvg-id="PBS.Kids.us" tvg-name="PBS Kids" ,PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+#EXTINF:-1 tvg-id="WGN.Chicago.(LOCAL).us" tvg-name="CW - WGN" ,CW - WGN
+http://fl3.moveonjoy.com/WGN/index.m3u8
 #EXTINF:-1 tvg-id="CW.(KCWE).Kansas.City,.MO.us" tvg-name="CW - KCWE" ,CW - KCWE
 https://cvtv.cvalley.net/hls/KCWECW/KCWECW.m3u8
 #EXTINF:-1 tvg-id="CW.(KOMU-TV3).+.Columbia,.MO.us" tvg-name="CW - KOMU" ,CW - KOMU
 https://cvtv.cvalley.net/hls/KOMUCW/KOMUCW.m3u8
-#EXTINF:-1 tvg-id="CW.(KYOU4).Ottumwa,.IA.us" tvg-name="CW - KYOU" ,CW - KYOU
-https://cvtv.cvalley.net/hls/KYOUDT4/KYOUDT4.m3u8
+#EXTINF:-1 tvg-id="FOX.(WNYW).New.York,.NY.us" tvg-name="FOX - WNYW" ,FOX - WNYW
+http://fl1.moveonjoy.com/FOX_EAST/index.m3u8
 #EXTINF:-1 tvg-id="FOX.(KQFX).Columbia,.MO.us" tvg-name="FOX - KQFX" ,FOX - KQFX
 https://cvtv.cvalley.net/hls/KQFXFOX/KQFXFOX.m3u8
 #EXTINF:-1 tvg-id="FOX.(WDAF).Kansas.City,.MO.us" ,FOX - WDAF
