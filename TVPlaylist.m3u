@@ -55,6 +55,12 @@ https://cvtv.cvalley.net/hls/KZOUMYZOU/KZOUMYZOU.m3u8
 https://cbcrclinear-tor.akamaized.net/hls/live/2042758/CBCRCLINEAR_TOR_4/master5.m3u8
 #EXTINF:-1 tvg-logo="https://images.fubo.tv/station_logos/CBC-NewsNetwork_m.png" tvg-id="CBC.News.Network.ca" tvg-name="CBC News Network",CBC News Network
 https://cbcrclinear-tor.akamaized.net/hls/live/2042769/geo_allow_ca/CBCRCLINEAR_TOR_15/master5.m3u8
+#EXTINF:0 tvg-id="Weather.Network.ca" tvg-name="The Weather Network",The Weather Network
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01442-pelmorexcorp-theweathernetwork-lgca/playlist.m3u8
+#EXTINF:0 tvg-id="CNN.HD.ca" tvg-name="Cable News Network",Cable News Network
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:0 tvg-id="HLN.HD.ca" tvg-name="Headline News Network",Headline News Network
+https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-dark/news-now-logo-style-sheet-v31-for-epgs-only_wht.png" tvg-id="plex.tv.NBC.News.NOW.plex" tvg-name="NBC News Now",NBC News Now
 https://d4whmvwm0rdvi.cloudfront.net/10007/99992212/hls/master.m3u8
 #EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/newsmax/Newsmax+Logo_200x800.png" tvg-id="plex.tv.Newsmax2.plex" tvg-name="NewsMax2",NewsMax2
@@ -71,6 +77,8 @@ http://fl3.moveonjoy.com/W_NETWORK/index.m3u8
 http://fl3.moveonjoy.com/LIFETIME/index.m3u8
 #EXTINF:-1 tvg-id="National.Geographic.US.-.Eastern.us" tvg-name="National Geographic TV",National Geographic TV
 http://fl3.moveonjoy.com/National_Geographic/index.m3u8
+#EXTINF:-1 tvg-id="Discovery.Channel.(US).-.Eastern.Feed.us" tvg-name="Discovery Channel",Discovery Channel
+http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
 #EXTINF:-1 tvg-id="TBS.-.East.us" tvg-name="TBS Network" ,TBS Network
 https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="TNT.-.Eastern.Feed.us" tvg-name="TNT Network" ,TNT Network
