@@ -55,7 +55,7 @@ https://cvtv.cvalley.net/hls/KZOUMYZOU/KZOUMYZOU.m3u8
 https://cbcrclinear-tor.akamaized.net/hls/live/2042758/CBCRCLINEAR_TOR_4/master5.m3u8
 #EXTINF:-1  tvg-id="CBC.News.Network.ca" tvg-name="CBC News Network",CBC News Network
 https://cbcrclinear-tor.akamaized.net/hls/live/2042769/geo_allow_ca/CBCRCLINEAR_TOR_15/master5.m3u8
-#EXTINF:-1  tvg-id="plex.tv.Newsmax2.plex" tvg-name="NewsMax2",NewsMax2
+#EXTINF:-1  tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/newsmax/Newsmax+Logo_200x800.png" tvg-id="plex.tv.Newsmax2.plex" tvg-name="NewsMax2",NewsMax2
 https://amg00217-newsmax-amg00217c3-tablo-us-7611.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Much.Music.ca" tvg-name="MuchTV",MuchTV
 http://fl1.moveonjoy.com/MUCH/index.m3u8
@@ -79,33 +79,37 @@ http://fl3.moveonjoy.com/COZI_TV/index.m3u8
 https://cvtv.cvalley.net/hls/KRCGComet/KRCGComet.m3u8
 #EXTINF:-1 tvg-id="plex.tv.Comedy.Dynamics.plex" tvg-name="Comedy Dynamics" ,Comedy Dynamics
 https://linear-903.frequency.stream/dist/lg-ca/903/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="plex.tv.ION.plex" tvg-name="ION",ION
+#EXTINF:-1 tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1116-LG-Logo-PNG-100x100_v4.png" tvg-id="plex.tv.ION.plex" tvg-name="ION",ION
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ion-tablo/playlist.m3u8
-#EXTINF:-1 tvg-id="plex.tv.ION.Plus.plex" tvg-name="ION Plus",ION Plus
+#EXTINF:-1 tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/378-LG-Logo-PNG-100x100_v3.png" tvg-id="plex.tv.ION.Plus.plex" tvg-name="ION Plus",ION Plus
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionplus-tablo/playlist.m3u8
-#EXTINF:-1 tvg-id="plex.tv.Ion.Mystery.plex" tvg-name="ION Mystery",ION Mystery
+#EXTINF:-1 tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1206-LG-Logo-PNG-100x100_v7.png"tvg-id="plex.tv.Ion.Mystery.plex" tvg-name="ION Mystery",ION Mystery
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionmystery-tablo/playlist.m3u8
 #EXTINF:-1 tvg-id="Grit.TV.us" tvg-name="Grit" ,Grit
 https://cvtv.cvalley.net/hls/KSHBCozi/KSHBCozi.m3u8
-#EXTINF:-1 tvg-id="Grit.TV.us" tvg-name="Grit Xtra" ,Grit Xtra
+#EXTINF:-1 tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1208-LG-Logo-PNG-100x100_v1.png" tvg-id="Grit.TV.us" tvg-name="Grit Xtra" ,Grit Xtra
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-gritxtra-tablo/playlist.m3u8
 #EXTINF:-1 tvg-id="Laff.TV.us" tvg-name="Laff" ,Laff
 https://cvtv.cvalley.net/hls/KSHBLaff/KSHBLaff.m3u8
-#EXTINF:-1 tvg-id="plex.tv.Laff.More.plex" tvg-name="Laff More" ,Laff More
+#EXTINF:-1 tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1498-LG-Logo-PNG-100x100_v2.png" tvg-id="plex.tv.Laff.More.plex" tvg-name="Laff More" ,Laff More
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-laffmore-tablo/playlist.m3u8
 #EXTINF:-1 tvg-id="Get.TV.us" tvg-name="GetTV" ,GetTV
 http://fl3.moveonjoy.com/GET_TV/index.m3u8
 #EXTINF:-1 tvg-id="Bounce.TV.us" tvg-name="BounceTV" ,BounceTV
 https://cvtv.cvalley.net/hls/KMCIBounceTV/KMCIBounceTV.m3u8
-#EXTINF:-1 tvg-id="plex.tv.Bounce.XL.plex" tvg-name="BounceTV XL" ,BounceTV XL
+#EXTINF:-1 tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/938-LG-Logo-PNG-100x100_v1.png" tvg-id="plex.tv.Bounce.XL.plex" tvg-name="BounceTV XL" ,BounceTV XL
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-bouncexl-tablo/playlist.m3u8
-#EXTINF:-1 tvg-id="plex.tv.Court.TV.plex" tvg-name="Court TV" ,Court TV
+#EXTINF:-1 tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1516-LG-Logo-PNG-100x100_v2.png" tvg-id="plex.tv.Court.TV.plex" tvg-name="Court TV" ,Court TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8
-#EXTINF:-1 tvg-id="plex.tv.Court.TV.Legendary.Trials.plex" tvg-name="Court TV Legendary" ,Court TV Legendary
+#EXTINF:-1 tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1516-LG-Logo-PNG-100x100_v2.png" tvg-id="plex.tv.Court.TV.Legendary.Trials.plex" tvg-name="Court TV Legendary" ,Court TV Legendary
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttvlegenderytrials-tablo/playlist.m3u8
-#EXTINF:-1 tvg-id="plex.tv.BUZZR.plex" tvg-name="Buzzr!" ,Buzzr!
+#EXTINF:-1 tvg-logo="https://d3p7no563qx06c.cloudfront.net/EPG/S3/images/buzzr_logo.png" tvg-id="plex.tv.BUZZR.plex" tvg-name="Buzzr!" ,Buzzr!
 http://fl3.moveonjoy.com/Buzzr/index.m3u8
-#EXTINF:-1 tvg-id="plex.tv.Tastemade.plex" tvg-name="Tastemade" ,Tastemade
+#EXTINF:-1 tvg-logo="https://d3icg9l6jqq36d.cloudfront.net/NINTL1/Nosey_LG_Logo_white_800x200.png" tvg-id="plex.tv.Nosey.plex" tvg-name="Nosey",Nosey
+https://nosey-intl-1-lg-us.amagi.tv/hls/amagi_hls_data_noseyAAAA-noseyintl1-lg-us/CDN/master.m3u8
+#EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/Confess_by_Nosey/LG_ConfessByNoseyLogo_White_400x200.png" tvg-id="plex.tv.Confess.by.Nosey.plex" tvg-name="Confess by Nosey,Confess by Nosey
+https://amg00514-amg00514c3-lg-us-7151.playouts.now.amagi.tv/playlist/amg00514-noseybaxterfast-confessbynosey-lgus/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/tastemade/Logo_WordmarkLogo_800x200px.png" tvg-id="plex.tv.Tastemade.plex" tvg-name="Tastemade" ,Tastemade
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadefreetv16-tablo/playlist.m3u8
 #EXTINF:-1 tvg-id="TSN5.ca" tvg-name="TSN",TSN
 http://fl5.moveonjoy.com/TSN_5/index.m3u8
