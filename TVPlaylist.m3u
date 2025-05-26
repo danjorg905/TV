@@ -69,8 +69,12 @@ https://cvtv.cvalley.net/hls/WDAFAntenna/WDAFAntenna.m3u8
 http://fl3.moveonjoy.com/COZI_TV/index.m3u8
 #EXTINF:-1 tvg-id="Comet.TV.us" tvg-name="Comet" ,Comet
 https://cvtv.cvalley.net/hls/KRCGComet/KRCGComet.m3u8
-#EXTINF:-1 tvg-id="ION.TV.East.us" tvg-name="ION" ,ION
-https://cvtv.cvalley.net/hls/KPXEION/KPXEION.m3u8
+#EXTINF:-1 tvg-id="plex.tv.ION.plex" tvg-name="ION",ION
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ion-tablo/playlist.m3u8
+#EXTINF:-1 tvg-id="plex.tv.ION.Plus.plex" tvg-name="ION Plus",ION Plus
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionplus-tablo/playlist.m3u8
+#EXTINF:-1 tvg-id="plex.tv.Ion.Mystery.plex" tvg-name="ION Mystery",ION Mystery
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionmystery-tablo/playlist.m3u8
 #EXTINF:-1 tvg-id="Grit.TV.us" tvg-name="Griti" ,Grit
 https://cvtv.cvalley.net/hls/KSHBCozi/KSHBCozi.m3u8
 #EXTINF:-1 tvg-id="Laff.TV.us" tvg-name="Laff" ,Laff
