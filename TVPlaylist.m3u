@@ -55,6 +55,8 @@ https://2-fss-1.streamhoster.com/pl_122/amlst:201814-2122456/playlist.m3u8
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.fubo.tv/station_logos/CBC2022_m.png" tvg-id="CBC.(CBHT).Halifax,.NS.ca" tvg-name="CBC - Halifax",CBC - Halifax
 https://cbcrclinear-tor.akamaized.net/hls/live/2042758/CBCRCLINEAR_TOR_4/master5.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Global_Television_Network_Logo.svg/512px-Global_Television_Network_Logo.svg.png" tvg-id="Global.BC.ca" tvg-name="GlobalTV - Vancouver",GlobalTV - Vancouver
+https://fl3.moveonjoy.com/CA_GLOBAL/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.fubo.tv/station_logos/CBC-NewsNetwork_m.png" tvg-id="CBC.News.Network.ca" tvg-name="CBC News Network",CBC News Network
 https://cbcrclinear-tor.akamaized.net/hls/live/2042769/geo_allow_ca/CBCRCLINEAR_TOR_15/master5.m3u8
 #EXTINF:-1 tvg-logo=http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10098_dark_360w_270h.png" tvg-id="plex.tv.CBS.News.plex" tvg-name="CBS News 24/7",CBS News 24/7
