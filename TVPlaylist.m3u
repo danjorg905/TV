@@ -1,66 +1,66 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_US_LOCALS2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_CA1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PLEX1.xml.gz"
-#EXTINF:-1 tvg-id="ABC.(KMBC).Kansas.City,.MO.us" tvg-name="ABC - KMBC" ,ABC - KMBC
+#EXTINF:-1 tvg-id="ABC.(WABC).New.York,.NY.us" tvg-name="ABC - New York" ,ABC - New York
+https://fl1.moveonjoy.com/ABC_EAST/index.m3u8
+#EXTINF:-1 tvg-id="ABC.(KMBC).Kansas.City,.MO.us" tvg-name="ABC - Kansas City" ,ABC - Kansas City
 https://cvtv.cvalley.net/hls/KMBCABC/KMBCABC.m3u8
-#EXTINF:-1 tvg-id="ABC.(KMIZ).Columbia,.MO.us" tvg-name="ABC - KMIZ" ,ABC - KMIZ
+#EXTINF:-1 tvg-id="ABC.(KMIZ).Columbia,.MO.us" tvg-name="ABC - Columbia" ,ABC - Columbia
 https://cvtv.cvalley.net/hls/KMIZABC/KMIZABC.m3u8
-#EXTINF:-1 tvg-id="ABC.(KTVO).Kirskville,.MO.us" tvg-name="ABC - KTVO" ,ABC - KTVO
+#EXTINF:-1 tvg-id="ABC.(KTVO).Kirskville,.MO.us" tvg-name="ABC - Kirskville" ,ABC - Kirskville
 https://cvtv.cvalley.net/hls/KTVOABC/KTVOABC.m3u8
-#EXTINF:-1 tvg-id="NBC.(WRC).District.of.Columbia.us" tvg-name="NBC - WRC" ,NBC - WRC
+#EXTINF:-1 tvg-id="NBC.(WRC).District.of.Columbia.us" tvg-name="NBC - Washington DC" ,NBC - Washington DC
 http://fl1.moveonjoy.com/NBC_EAST/index.m3u8
-#EXTINF:-1 tvg-id="NBC.(KOMU).Columbia,.MO.us" tvg-name="NBC - KOMU" ,NBC - KOMU
+#EXTINF:-1 tvg-id="NBC.(KOMU).Columbia,.MO.us" tvg-name="NBC - Columbia" ,NBC - Columbia
 https://cvtv.cvalley.net/hls/KOMUNBC/KOMUNBC.m3u8
-#EXTINF:-1 tvg-id="NBC.(KSHB).Kansas.City,.MO.us" tvg-name="NBC - KSHB" ,NBC - KSHB
+#EXTINF:-1 tvg-id="NBC.(KSHB).Kansas.City,.MO.us" tvg-name="NBC - Kansas City" ,NBC - Kansas City
 https://cvtv.cvalley.net/hls/KSHBNBC/KSHBNBC.m3u8
-#EXTINF:-1 tvg-id="NBC.(KYOU-DT2).Ottumwa,.IA.us" tvg-name="NBC - KYOU" ,NBC - KYOU
+#EXTINF:-1 tvg-id="NBC.(KYOU-DT2).Ottumwa,.IA.us" tvg-name="NBC - Ottumwa" ,NBC - Ottumwa
 https://cvtv.cvalley.net/hls/KYOUNBC/KYOUNBC.m3u8
-#EXTINF:-1 tvg-id="CBS.(KCTV).Kansas.City,.MO.us" tvg-name="CBS - KCTV" ,CBS - KCTV
+#EXTINF:-1 tvg-id="CBS.(KCTV).Kansas.City,.MO.us" tvg-name="CBS - Kansas.City" ,CBS - Kansas.City
 https://cvtv.cvalley.net/hls/KCTVCBS/KCTVCBS.m3u8
-#EXTINF:-1 tvg-id="CBS.(KRCG).Jefferson,.MO.us" tvg-name="CBS - KRCG" ,CBS - KRCG
+#EXTINF:-1 tvg-id="CBS.(KRCG).Jefferson,.MO.us" tvg-name="CBS - Jefferson" ,CBS - Jefferson
 https://cvtv.cvalley.net/hls/KRCGCBS/KRCGCBS.m3u8
-#EXTINF:-1 tvg-id="CBS.(KTVO-DT2).Kirskville,.MO.us" tvg-name="CBS - KTVO" ,CBS - KTVO
+#EXTINF:-1 tvg-id="CBS.(KTVO-DT2).Kirskville,.MO.us" tvg-name="CBS - Kirskville" ,CBS - Kirskville
 https://cvtv.cvalley.net/hls/KTVOCBS/KTVOCBS.m3u8
-#EXTINF:-1 tvg-id="PBS.(KCPT).Kansas.City,.MO.us" tvg-name="PBS - KCPT" ,PBS - KCPT
+#EXTINF:-1 tvg-id="PBS.(KCPT).Kansas.City,.MO.us" tvg-name="PBS - Kansas City" ,PBS - Kansas City
 https://cvtv.cvalley.net/hls/KCPTPBS/KCPTPBS.m3u8
-#EXTINF:-1 tvg-id="PBS.(KMOS).Warrensburg,.MO.us" tvg-name="PBS - KMOS" ,PBS - KMOS
+#EXTINF:-1 tvg-id="PBS.(KMOS).Warrensburg,.MO.us" tvg-name="PBS - Warrensburg" ,PBS - Warrensburg
 https://cvtv.cvalley.net/hls/KMOSPBS/KMOSPBS.m3u8
-#EXTINF:-1 tvg-id="PBS.(WKLE).Lexington-Richmond,.KY.us" tvg-name="PBS - WKLE" ,PBS - WKLE
+#EXTINF:-1 tvg-id="PBS.(WKLE).Lexington-Richmond,.KY.us" tvg-name="PBS - Lexington" ,PBS - Lexington
 https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8
-#EXTINF:-1 tvg-id="PBS.(WMPT).Annapolis,.MD.us" tvg-name="PBS Baltimore MD" ,PBS - WMPT
+#EXTINF:-1 tvg-id="PBS.(WMPT).Annapolis,.MD.us" tvg-name="PBS Baltimore " ,PBS - Baltimore
 https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
+#EXTINF:-1 tvg-id="WGN.Chicago.(LOCAL).us" tvg-name="CW - Chicago" ,CW - Chicago
+http://fl3.moveonjoy.com/WGN/index.m3u8
+#EXTINF:-1 tvg-id="CW.(KCWE).Kansas.City,.MO.us" tvg-name="CW - Kansas City" ,CW - Kansas City
+https://cvtv.cvalley.net/hls/KCWECW/KCWECW.m3u8
+#EXTINF:-1 tvg-id="CW.(KOMU-TV3).+.Columbia,.MO.us" tvg-name="CW - Columbia" ,CW - Columbia
+https://cvtv.cvalley.net/hls/KOMUCW/KOMUCW.m3u8
+#EXTINF:-1 tvg-id="FOX.(WNYW).New.York,.NY.us" tvg-name="FOX - New York" ,FOX - New York
+http://fl1.moveonjoy.com/FOX_EAST/index.m3u8
+#EXTINF:-1 tvg-id="FOX.(KQFX).Columbia,.MO.us" tvg-name="FOX - Columbia" ,FOX - Columbia
+https://cvtv.cvalley.net/hls/KQFXFOX/KQFXFOX.m3u8
+#EXTINF:-1 tvg-id="FOX.(WDAF).Kansas.City,.MO.us" tvg-name="FOX - Kansas City",FOX - Kansas City
+https://cvtv.cvalley.net/hls/WDAFFox/WDAFFox.m3u8
+#EXTINF:-1 tvg-id="KMCI.38.(The.Spot).-.Kansas.City,.MO.us" tvg-name="38TheSpot - Kansas City" ,38TheSpot - Kansas City
+https://cvtv.cvalley.net/hls/KMCIIND/KMCIIND.m3u8
+#EXTINF:-1 tvg-id="MNT.(KSMO).Kansas.City,.MO.us" tvg-name="MyNetworkTV - Kansas City" ,MyNetworkTV - Kansas City
+https://cvtv.cvalley.net/hls/KSMOIND/KSMOIND.m3u8
+#EXTINF:-1 tvg-id="MNT.(KMIZ-DT3).Columbia,.MO.us" tvg-name="MyNetworkTV - Columbia" ,MyNetworkTV - Columbia
+https://cvtv.cvalley.net/hls/KZOUMYZOU/KZOUMYZOU.m3u8
 #EXTINF:-1 tvg-id="PBS.World.us" tvg-name="PBS World" ,PBS World
 https://2-fss-1.streamhoster.com/pl_122/amlst:200914-2942150/playlist.m3u8
 #EXTINF:-1 tvg-id="Create.TV.us" tvg-name="PBS Create" ,PBS Create
 https://2-fss-1.streamhoster.com/pl_122/amlst:201814-2122456/playlist.m3u8
 #EXTINF:-1 tvg-id="PBS.Kids.us" tvg-name="PBS Kids" ,PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
-#EXTINF:-1 tvg-id="WGN.Chicago.(LOCAL).us" tvg-name="CW - WGN" ,CW - WGN
-http://fl3.moveonjoy.com/WGN/index.m3u8
-#EXTINF:-1 tvg-id="CW.(KCWE).Kansas.City,.MO.us" tvg-name="CW - KCWE" ,CW - KCWE
-https://cvtv.cvalley.net/hls/KCWECW/KCWECW.m3u8
-#EXTINF:-1 tvg-id="CW.(KOMU-TV3).+.Columbia,.MO.us" tvg-name="CW - KOMU" ,CW - KOMU
-https://cvtv.cvalley.net/hls/KOMUCW/KOMUCW.m3u8
-#EXTINF:-1 tvg-id="FOX.(WNYW).New.York,.NY.us" tvg-name="FOX - WNYW" ,FOX - WNYW
-http://fl1.moveonjoy.com/FOX_EAST/index.m3u8
-#EXTINF:-1 tvg-id="FOX.(KQFX).Columbia,.MO.us" tvg-name="FOX - KQFX" ,FOX - KQFX
-https://cvtv.cvalley.net/hls/KQFXFOX/KQFXFOX.m3u8
-#EXTINF:-1 tvg-id="FOX.(WDAF).Kansas.City,.MO.us" ,FOX - WDAF
-https://cvtv.cvalley.net/hls/WDAFFox/WDAFFox.m3u8
-#EXTINF:-1 tvg-id="KMCI.38.(The.Spot).-.Kansas.City,.MO.us" tvg-name="38TheSpot - KMCI" ,38TheSpot - KMCI
-https://cvtv.cvalley.net/hls/KMCIIND/KMCIIND.m3u8
-#EXTINF:-1 tvg-id="MNT.(KSMO).Kansas.City,.MO.us" tvg-name="MyNetworkTV - KSMO" ,MyNetworkTV - KSMO
-https://cvtv.cvalley.net/hls/KSMOIND/KSMOIND.m3u8
-#EXTINF:-1 tvg-id="MNT.(KMIZ-DT3).Columbia,.MO.us" tvg-name="MyNetworkTV - KMIZ" ,MyNetworkTV - KMIZ
-https://cvtv.cvalley.net/hls/KZOUMYZOU/KZOUMYZOU.m3u8
-#EXTINF:-1 tvg-logo="https://images.fubo.tv/station_logos/CBC2022_m.png" tvg-id="CBC.(CBHT).Halifax,.NS.ca" tvg-name="CBC Television",CBC Television
+#EXTINF:-1 tvg-logo="https://images.fubo.tv/station_logos/CBC2022_m.png" tvg-id="CBC.(CBHT).Halifax,.NS.ca" tvg-name="CBC - Halifax",CBC - Halifax
 https://cbcrclinear-tor.akamaized.net/hls/live/2042758/CBCRCLINEAR_TOR_4/master5.m3u8
 #EXTINF:-1 tvg-logo="https://images.fubo.tv/station_logos/CBC-NewsNetwork_m.png" tvg-id="CBC.News.Network.ca" tvg-name="CBC News Network",CBC News Network
 https://cbcrclinear-tor.akamaized.net/hls/live/2042769/geo_allow_ca/CBCRCLINEAR_TOR_15/master5.m3u8
-#EXTINF:0 tvg-id="Weather.Network.ca" tvg-name="The Weather Network",The Weather Network
+#EXTINF:-1 tvg-logo=http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10098_dark_360w_270h.png" tvg-id="plex.tv.CBS.News.plex" tvg-name="CBS News 24/7",CBS News 24/7
+https://fl3.moveonjoy.com/CBS_News/index.m3u8
+#EXTINF:-1 tvg-id="Weather.Network.ca" tvg-name="The Weather Network",The Weather Network
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01442-pelmorexcorp-theweathernetwork-lgca/playlist.m3u8
-#EXTINF:0 tvg-id="CNN.HD.ca" tvg-name="Cable News Network",Cable News Network
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:0 tvg-id="HLN.HD.ca" tvg-name="Headline News Network",Headline News Network
-https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-dark/news-now-logo-style-sheet-v31-for-epgs-only_wht.png" tvg-id="plex.tv.NBC.News.NOW.plex" tvg-name="NBC News Now",NBC News Now
 https://d4whmvwm0rdvi.cloudfront.net/10007/99992212/hls/master.m3u8?ads.xumo_channelId=99992212&ads.asnw=169843&ads.afid=137704898&ads.sfid=16373024&ads.csid=lgchannels_us_nbcnewsnow_ssai_cro&ads._fw_is_lat=[LMT]&ads._fw_us_privacy=[US_PRIVACY]&ads._fw_coppa=0&ads._fw_did=[IFA]&ads._fw_vcid2=512116:[IFA]&ads._fw_app_bundle=[APP_BUNDLE]&ads._fw_app_store_url=[APP_STOREURL]&ads._fw_content_category=IAB12&ads._fw_content_genre=News&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=[DEVICE_MAKE]&ads._fw_device_model=[DEVICE_MODEL]&ads._fw_deviceType=3-Connected_TV&ads.appVersion=[APP_VERSION]&ads.appName=lgchannels&ads.xumo_contentId=1828&ads.xumo_contentName=NBCNewsNOW&ads.xumo_providerId=1828&ads.xumo_providerName=NBCNewsNOW&ads.channelId=99992212&ads._fw_ifa_type=dpid&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
 #EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/newsmax/Newsmax+Logo_200x800.png" tvg-id="plex.tv.Newsmax2.plex" tvg-name="NewsMax2",NewsMax2
@@ -79,12 +79,12 @@ http://fl3.moveonjoy.com/LIFETIME/index.m3u8
 http://fl3.moveonjoy.com/National_Geographic/index.m3u8
 #EXTINF:-1 tvg-id="Discovery.Channel.(US).-.Eastern.Feed.us" tvg-name="Discovery Channel",Discovery Channel
 http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
+#EXTINF:-1 tvg-id="Comedy.Central.(US).-.Eastern.Feed.us" tvg-name="Comedy Central",Comedy Central
+https://fl3.moveonjoy.com/Comedy_Central/index.m3u8
 #EXTINF:-1 tvg-id="TBS.-.East.us" tvg-name="TBS Network" ,TBS Network
-https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="TNT.-.Eastern.Feed.us" tvg-name="TNT Network" ,TNT Network
-https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
+http://fl1.moveonjoy.com/TBS/index.m3u8
 #EXTINF:-1 tvg-id="Turner.Classic.Movies.USA.us" tvg-name="Turner Classic Movies" ,Turner Classic Movies
-https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
+http://fl1.moveonjoy.com/TCM/index.m3u8
 #EXTINF:-1 tvg-id="Me.TV.us" tvg-name="MeTV" ,MeTV
 https://cvtv.cvalley.net/hls/KMBCMeTV/KMBCMeTV.m3u8
 #EXTINF:-1 tvg-id="Start.TV.us" tvg-name="StartTV" ,StartTV
