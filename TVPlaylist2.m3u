@@ -5,6 +5,8 @@ https://amg00788-cbc-amg00788c3-lg-ca-3607.playouts.now.amagi.tv/playlist/amg007
 https://amg00089-bellmedia-amg00089c3-lg-ca-2995.playouts.now.amagi.tv/playlist/amg00089-bellmediafast-ctvnews-lgca/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99992214/600x200.png?type=white_cropped" ,ABC News Live
 https://3j5cyyz6xu5d5n3vhn5vqghfum0ouqee.lambda-url.us-east-1.on.aws/master.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6350fdd266e9ea0007bedec5/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png",CBS News 24/7
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTINF:-1 tvg-logo="https://d3rimcir91uaav.cloudfront.net/196481_LG_LiveNow_Logo_White_800x200_001.png" ,LiveNOW from FOX
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-livenowbyfox-lgus/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/newsmax/Newsmax+Logo_200x800.png" ,Newsmax
