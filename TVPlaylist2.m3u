@@ -1,145 +1,117 @@
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://d3gypb03kkyu14.cloudfront.net/CBC-News-Explore/Rebrand/LG/Logo/552x200.png" ,CBC News
+#EXTM3U url-tvg="https://i.mjh.nz/Plex/all.xml"
+#EXTINF:0 CUID="1" tvg-name="CBC News" tvg-id="5e20b730f2f8d5003d739db7-64c91830ea7db2f52688c52c" tvg-logo="https://d3gypb03kkyu14.cloudfront.net/CBC-News-Explore/Rebrand/LG/Logo/552x200.png" group-title="Empty name",CBC News
 https://amg00788-cbc-amg00788c3-lg-ca-3607.playouts.now.amagi.tv/playlist/amg00788-canadianbroadcastingcorporationcbc-cbcnewsexplore-lgca/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://d37lhv1m2qsipm.cloudfront.net/bctne/CTVNews_LG_FAST_Logo.png" ,CTV News
+#EXTINF:0 CUID="2" tvg-name="CTV News" tvg-id="647f8d22a2fc3fadb4721685-6685c1a1b53e3bc0fd169e1d" tvg-logo="https://d37lhv1m2qsipm.cloudfront.net/bctne/CTVNews_LG_FAST_Logo.png" group-title="Empty name",CTV News
 https://amg00089-bellmedia-amg00089c3-lg-ca-2995.playouts.now.amagi.tv/playlist/amg00089-bellmediafast-ctvnews-lgca/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99992214/600x200.png?type=white_cropped" ,ABC News Live
-https://3j5cyyz6xu5d5n3vhn5vqghfum0ouqee.lambda-url.us-east-1.on.aws/master.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6350fdd266e9ea0007bedec5/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png",CBS News 24/7
+#EXTINF:0 CUID="4" tvg-name="CBS News 24/7" tvg-id="5e20b730f2f8d5003d739db7-6571f43a1d2aae780d597196" tvg-logo="https://images.pluto.tv/channels/6350fdd266e9ea0007bedec5/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png" group-title="Empty name",CBS News 24/7
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
-#EXTINF:-1 tvg-logo="https://d3rimcir91uaav.cloudfront.net/196481_LG_LiveNow_Logo_White_800x200_001.png" ,LiveNOW from FOX
+#EXTINF:0 CUID="5" tvg-name="LiveNOW from FOX" tvg-id="5e20b730f2f8d5003d739db7-6377ea0e13bb6b1757e14695" tvg-logo="https://d3rimcir91uaav.cloudfront.net/196481_LG_LiveNow_Logo_White_800x200_001.png" group-title="Empty name",LiveNOW from FOX
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-livenowbyfox-lgus/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/newsmax/Newsmax+Logo_200x800.png" ,Newsmax
+#EXTINF:0 CUID="6" tvg-name="Newsmax" tvg-id="5e20b730f2f8d5003d739db7-5fb81660b7ad2d002dcb7335" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/newsmax/Newsmax+Logo_200x800.png" group-title="Empty name",Newsmax
 https://amg00217-newsmax-amg00217c2-lg-ca-4271.playouts.now.amagi.tv/playlist/amg00217-newsmaxmediafast-newsmaxn1-lgca/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/reuters/Reuters_Logo.png" ,Reuters
+#EXTINF:0 CUID="7" tvg-name="Reuters" tvg-id="5e20b730f2f8d5003d739db7-5eea71d65252710041e0ccbc" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/reuters/Reuters_Logo.png" group-title="Empty name",Reuters
 https://amg00453-reuters-amg00453c1-lg-us-2227.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-lgus/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1149-LG-Logo-PNG-100x100_v1.png" ,Scripps News
+#EXTINF:0 CUID="8" tvg-name="Scripps News" tvg-id="5e20b730f2f8d5003d739db7-5fc705dda2236e002d69f211" tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1149-LG-Logo-PNG-100x100_v1.png" group-title="Empty name",Scripps News
 https://scripps-newsy-2-us.tcl.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.platform.wurl.dev/channel/1654/lg/f3f632/LG-Logo-PNG-100x100_v1.png" ,Bloomberg TV+
+#EXTINF:0 CUID="9" tvg-name="Bloomberg TV+" tvg-id="5e20b730f2f8d5003d739db7-61d73ab0a7b7c7f703418516" tvg-logo="https://img.platform.wurl.dev/channel/1654/lg/f3f632/LG-Logo-PNG-100x100_v1.png" group-title="Empty name",Bloomberg TV+
 https://6f017c3dbc684df38f28d212d798b953.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LG-ca_Bloomberg-1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.platform.wurl.dev/channel/1653/lg/792e35/LG-Logo-PNG-100x100_v1.png" ,Bloomberg Originals
+#EXTINF:0 CUID="10" tvg-name="Bloomberg Originals" tvg-id="5e20b730f2f8d5003d739db7-61d73c3ca7b7c7f703418518" tvg-logo="https://img.platform.wurl.dev/channel/1653/lg/792e35/LG-Logo-PNG-100x100_v1.png" group-title="Empty name",Bloomberg Originals
 https://b9ae8e0f63d24ffc9062cb098db85659.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LG-ca_Originals-1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://d10pnlorujdrbi.cloudfront.net/LG-TWN_Logo_White-image.png" ,The Weather Network
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01442-pelmorexcorp-theweathernetwork-lgca/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://d37lhv1m2qsipm.cloudfront.net/bctla/CTVLaughs_LG_FAST_Logo.png" ,CTV Laughs
+#EXTINF:0 CUID="12" tvg-name="CTV Laughs" tvg-id="647f8d22a2fc3fadb4721685-6685c10e2deb7f424133b08b" tvg-logo="https://d37lhv1m2qsipm.cloudfront.net/bctla/CTVLaughs_LG_FAST_Logo.png" group-title="Empty name",CTV Laughs
 https://amg00089-bellmedia-amg00089c10-lg-ca-3225.playouts.now.amagi.tv/playlist/amg00089-bellmediafast-ctvlaughs-lgca/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/830-LG-Logo-PNG-100x100_v1.png" ,GET Comedy
-https://aeec63b3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctY2FfQ2luZXZhdWx0TXVyZGVyQW5kTWF5aGVtX0hMUw/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://aic-ngfts.lge.com/fts/gftsDownload.lge?biz_code=CDP&func_code=METADATA_FILE&file_path=/cdp/channel_logo/AMG/channel_600x200_6219.png" ,CBC Comedy
+#EXTINF:0 CUID="14" tvg-name="CBC Comedy" tvg-id="647f8d22a2fc3fadb4721685-65b28dd28f05102bce4a7910" tvg-logo="https://logo.iptveditor.com/cbc.png" group-title="Empty name",CBC Comedy
 https://amg00788-cbc-amg00788c2-lg-ca-3608.playouts.now.amagi.tv/playlist/amg00788-canadianbroadcastingcorporationcbc-cbccomedy-lgca/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1498-LG-Logo-PNG-100x100_v2.png" ,Laff More
+#EXTINF:0 CUID="15" tvg-name="Laff More" tvg-id="5e20b730f2f8d5003d739db7-648095b14e104622d093d902" tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1498-LG-Logo-PNG-100x100_v2.png" group-title="Empty name",Laff More
 https://4783fbd6.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfTGFmZk1vcmVfSExT/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.frequency.com/studio/cineverse/channels/ComedyDynamics_Vector_Yellow_v1.png" ,Comedy Dynamics
+#EXTINF:0 CUID="16" tvg-name="Comedy Dynamics" tvg-id="5e20b730f2f8d5003d739db7-5efe1de5e0b3f5003f5d9f76" tvg-logo="https://static.frequency.com/studio/cineverse/channels/ComedyDynamics_Vector_Yellow_v1.png" group-title="Empty name",Comedy Dynamics
 https://linear-903.frequency.stream/dist/lg-ca/903/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.platform.wurl.dev/channel/1160/lg/847773/LG-Logo-PNG-100x100_v1.png" ,FailArmy
+#EXTINF:0 CUID="17" tvg-name="FailArmy" tvg-id="5e20b730f2f8d5003d739db7-5eea605574085f0040ddc791" tvg-logo="https://img.platform.wurl.dev/channel/1160/lg/847773/LG-Logo-PNG-100x100_v1.png" group-title="Empty name",FailArmy
 https://ed27b9ef.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctY2FfRmFpbEFybXlfSExT/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1116-LG-Logo-PNG-100x100_v4.png" ,ION
+#EXTINF:0 CUID="18" tvg-name="ION" tvg-id="5e20b730f2f8d5003d739db7-624c37af6281708eabbbe26b" tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1116-LG-Logo-PNG-100x100_v4.png" group-title="Empty name",ION
 https://scripps-ion-2-us.tcl.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/378-LG-Logo-PNG-100x100_v3.png" ,ION Plus
+#EXTINF:0 CUID="19" tvg-name="ION Plus" tvg-id="5e20b730f2f8d5003d739db7-627e347795b0f50af26d78f9" tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/378-LG-Logo-PNG-100x100_v3.png" group-title="Empty name",ION Plus
 https://ion-ion-plus-2-us.tcl.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1206-LG-Logo-PNG-100x100_v7.png" ,ION Mystery
+#EXTINF:0 CUID="20" tvg-name="ION Mystery" tvg-id="5e20b730f2f8d5003d739db7-62b45f15b4508e0eedacdf26" tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1206-LG-Logo-PNG-100x100_v7.png" group-title="Empty name",ION Mystery
 https://scripps-ionmystery-2-us.tcl.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1490-LG-Logo-PNG-100x100_v1.png" ,Court TV
+#EXTINF:0 CUID="21" tvg-name="Court TV" tvg-id="5e20b730f2f8d5003d739db7-6245d867ddf1ba983d5b8bf8" tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1490-LG-Logo-PNG-100x100_v1.png" group-title="Empty name",Court TV
 https://12a7954f65aa469b9c5b497fa6a5047b.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/LG-ca_CourtTV/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1497-LG-Logo-PNG-100x100_v1.png" ,Court TV Legendary Trials
+#EXTINF:0 CUID="22" tvg-name="Court TV Legendary Trials" tvg-id="5e20b730f2f8d5003d739db7-648095ad190e97d15c3470e9" tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1497-LG-Logo-PNG-100x100_v1.png" group-title="Empty name",Court TV Legendary Trials
 https://d73c4df2.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctY2FfQ291cnRUVkxlZ2VuZGFyeVRyaWFsc19ITFM/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://d2y2gft5545ze9.cloudfront.net/TotalCrime_200pxHigh_LG_ChannelAssets_White.png" ,Total Crime
+#EXTINF:0 CUID="23" tvg-name="Total Crime" tvg-id="647f8d22a2fc3fadb4721685-646c0cdcfb58444e4e1e262b" tvg-logo="https://d2y2gft5545ze9.cloudfront.net/TotalCrime_200pxHigh_LG_ChannelAssets_White.png" group-title="Empty name",Total Crime
 https://bamca-crimetime-lg.amagi.tv/hls/amagi_hls_data_bamcanada-bamca-crimetime-lg/CDN/master.m3u8
-#EXTINF:-1 tvg-logo="https://img.platform.wurl.dev/channel/226/lg/649349/LG-Logo-PNG-100x100_v1.png" ,Law & Crime
+#EXTINF:0 CUID="24" tvg-name="Law & Crime" tvg-id="5e20b730f2f8d5003d739db7-5eea605674085f0040ddc79d" tvg-logo="https://img.platform.wurl.dev/channel/226/lg/649349/LG-Logo-PNG-100x100_v1.png" group-title="Empty name",Law & Crime
 https://tclAAAAAA-lawandcrime-tcl-tk7zp.amagi.tv/playlist/tclAAAAAA-lawandcrime-tcl/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1846-LG-Logo-PNG-100x100_v2.png" ,Lone Star
+#EXTINF:0 CUID="25" tvg-name="Lone Star" tvg-id="5e20b730f2f8d5003d739db7-6196c9241d310bf925e02616" tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1846-LG-Logo-PNG-100x100_v2.png" group-title="Empty name",Lone Star
 https://f5e36afe.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctY2FfTG9uZVN0YXJfSExT/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://db6iftd8li11q.cloudfront.net/Moviesphere/MovieSphere_LG_White_800x200.png" ,Moviesphere
+#EXTINF:0 CUID="26" tvg-name="Moviesphere" tvg-id="5e20b730f2f8d5003d739db7-5fb84bc1b7ad2d002dcb735f" tvg-logo="https://db6iftd8li11q.cloudfront.net/Moviesphere/MovieSphere_LG_White_800x200.png" group-title="Empty name",Moviesphere
 https://amg00353-lionsgatestudios-amg00353c9-lg-ca-997.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-moviespherecanada-lgca/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1208-LG-Logo-PNG-100x100_v1.png" ,Grit Xtra
+#EXTINF:0 CUID="27" tvg-name="Grit Xtra" tvg-id="5e20b730f2f8d5003d739db7-62b45f15b4508e0eedacdf25" tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1208-LG-Logo-PNG-100x100_v1.png" group-title="Empty name",Grit Xtra
 https://scripps-gritxtra-2-us.tcl.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/691-LG-Logo-PNG-100x100_v4.png" ,CINEVAULT
-https://36b627c2.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctY2FfQ2luZXZhdWx0X0hMUw/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1043-LG-Logo-PNG-100x100_v3.png" ,CINEVAULT: Classics
-https://bbeb46f8.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctY2FfQ2luZXZhdWx0Q2xhc3NpY3NfSExT/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/690-LG-Logo-PNG-100x100_v5.png" ,CINEVAULT: Westerns
-https://33aa6688.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctY2FfQ2luZXZhdWx0V2VzdGVybnNfSExT/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/tribeca/Tribeca_Logo_800w200h.png" ,Tribeca
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02507-giantpictures-tribeca-lgca/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/527-LG-Logo-PNG-100x100_v2.png" ,Maverick Black Cinema
+#EXTINF:0 CUID="32" tvg-name="Maverick Black Cinema" tvg-id="5e20b730f2f8d5003d739db7-5ef4e1b40d9ad000423c4430" tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/527-LG-Logo-PNG-100x100_v2.png" group-title="Empty name",Maverick Black Cinema
 https://0fe9dcbe51ca47b895b55e5b3f1f9622.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/LG-ca_MaverickBlackCinema/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/938-LG-Logo-PNG-100x100_v1.png" ,Bounce XL
+#EXTINF:0 CUID="33" tvg-name="Bounce XL" tvg-id="5e20b730f2f8d5003d739db7-623d9b0370560b72147a994a" tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/938-LG-Logo-PNG-100x100_v1.png" group-title="Empty name",Bounce XL
 https://scripps-bouncexl-2-us.tcl.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://d3icg9l6jqq36d.cloudfront.net/NINTL1/Nosey_LG_Logo_white_800x200.png" ,Nosey
+#EXTINF:0 CUID="34" tvg-name="Nosey" tvg-id="5e20b730f2f8d5003d739db7-5f0ff262d71dcb00449ec015" tvg-logo="https://d3icg9l6jqq36d.cloudfront.net/NINTL1/Nosey_LG_Logo_white_800x200.png" group-title="Empty name",Nosey
 https://nosey-intl-1-lg-ca.amagi.tv/hls/amagi_hls_data_noseyAAAA-noseyintl1-lg-ca/CDN/master.m3u8
-#EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/Confess_by_Nosey/LG_ConfessByNoseyLogo_White_400x200.png" ,Confess by Nosey
+#EXTINF:0 CUID="35" tvg-name="Confess by Nosey" tvg-id="5e20b730f2f8d5003d739db7-6438ee5a83766488c3bc9d4d" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/Confess_by_Nosey/LG_ConfessByNoseyLogo_White_400x200.png" group-title="Empty name",Confess by Nosey
 https://amg00514-amg00514c3-lg-ca-7152.playouts.now.amagi.tv/playlist/amg00514-noseybaxterfast-confessbynosey-lgca/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1869-LG-Logo-PNG-100x100_v1.png" ,So… Real
+#EXTINF:0 CUID="36" tvg-name="So… Real" tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1869-LG-Logo-PNG-100x100_v1.png" group-title="Empty name",So… Real
 https://08d094beeb6e40f1b1d7339005941392.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-ca_SoReal/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://d37lhv1m2qsipm.cloudfront.net/bctgl/CTVGridlock_LG_FAST_Logo.png" ,CTV Gridlock
+#EXTINF:0 CUID="37" tvg-name="CTV Gridlock" tvg-id="647f8d22a2fc3fadb4721685-6685c08ab53e3bc0fd169e1b" tvg-logo="https://d37lhv1m2qsipm.cloudfront.net/bctgl/CTVGridlock_LG_FAST_Logo.png" group-title="Empty name",CTV Gridlock
 https://amg00089-bellmedia-amg00089c7-lg-ca-3103.playouts.now.amagi.tv/playlist/amg00089-bellmediafast-ctvgridlock-lgca/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/Magellan_TV_Now/MGTV_Arcless_Monochrome_White.png" ,MagellanTV Now
+#EXTINF:0 CUID="38" tvg-name="MagellanTV Now" tvg-id="5e20b730f2f8d5003d739db7-5f5132e262fe160040f26bf2" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/Magellan_TV_Now/MGTV_Arcless_Monochrome_White.png" group-title="Empty name",MagellanTV Now
 https://amg00376-magellan-amg00376c3-lg-ca-1378.playouts.now.amagi.tv/playlist/amg00376-magellantv-magellantvnowcauk-lgca/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://d190bhqtoid3b.cloudfront.net/Images/S3/LG_Artwork/Declassified_800x200_Logo.png" ,Declassified
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-historytime-lgca/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://d37lhv1m2qsipm.cloudfront.net/btmbc/Mightiest_LG_FAST_Logo.png" ,The Mightiest by CTV
+#EXTINF:0 CUID="40" tvg-name="The Mightiest by CTV" tvg-id="647f8d22a2fc3fadb4721685-6685c23d2deb7f424133b08d" tvg-logo="https://d37lhv1m2qsipm.cloudfront.net/btmbc/Mightiest_LG_FAST_Logo.png" group-title="Empty name",The Mightiest by CTV
 https://amg00089-bellmedia-amg00089c5-lg-ca-3107.playouts.now.amagi.tv/playlist/amg00089-bellmediafast-themightiestbyctv-lgca/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/Curiosity%20Now/LG_800X200.png" ,Curiosity Now
+#EXTINF:0 CUID="41" tvg-name="Curiosity Now" tvg-id="5e20b730f2f8d5003d739db7-64831c8be3541c909e96d240" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/Curiosity%20Now/LG_800X200.png" group-title="Empty name",Curiosity Now
 https://amg00170-amg00170c1-lg-ca-3479.playouts.now.amagi.tv/playlist/amg00170-curiositystreamllcfast-curiositynow-lgca/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://d3p7no563qx06c.cloudfront.net/EPG/S3/images/buzzr_logo.png" ,Buzzr
+#EXTINF:0 CUID="42" tvg-name="Buzzr" tvg-id="5e20b730f2f8d5003d739db7-66a2d71b0b91165254efdb40" tvg-logo="https://d3p7no563qx06c.cloudfront.net/EPG/S3/images/buzzr_logo.png" group-title="Empty name",Buzzr
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00145-fremantlemedian-buzzr-lgus/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/416-LG-Logo-PNG-100x100_v3.png" ,Game Show Central
+#EXTINF:0 CUID="43" tvg-name="Game Show Central" tvg-id="5e20b730f2f8d5003d739db7-5eea605574085f0040ddc782" tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/416-LG-Logo-PNG-100x100_v3.png" group-title="Empty name",Game Show Central
 https://87755b6e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctY2FfR2FtZVNob3dDZW50cmFsLTFfSExT/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://d2y2gft5545ze9.cloudfront.net/HauntTV_200pxHigh_LG_ChannelAssets_White.png" ,Haunt TV
+#EXTINF:0 CUID="44" tvg-name="Haunt TV" tvg-id="647f8d22a2fc3fadb4721685-646c0794fb58444e4e1e2629" tvg-logo="https://d2y2gft5545ze9.cloudfront.net/HauntTV_200pxHigh_LG_ChannelAssets_White.png" group-title="Empty name",Haunt TV
 https://bamca-haunttv-lg.amagi.tv/hls/amagi_hls_data_bamcanada-bamca-haunttv-lg/CDN/master.m3u8
-#EXTINF:-1 tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1467-LG-Logo-PNG-100x100_v2.png" ,Crunchyroll
-https://8846385a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctY2FfQ3J1bmNoeXJvbGxfSExT/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.platform.wurl.dev/channel/1161/lg/f9dc8b/LG-Logo-PNG-100x100_v2.png" ,People Are Awesome
+#EXTINF:0 CUID="46" tvg-name="People Are Awesome" tvg-id="5e20b730f2f8d5003d739db7-5f0ff263d71dcb00449ec021" tvg-logo="https://img.platform.wurl.dev/channel/1161/lg/f9dc8b/LG-Logo-PNG-100x100_v2.png" group-title="Empty name",People Are Awesome
 https://c88e2266.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctY2FfUGVvcGxlQXJlQXdlc29tZV9ITFM/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/tastemade/Logo_WordmarkLogo_800x200px.png" ,Tastemade
+#EXTINF:0 CUID="47" tvg-name="Tastemade" tvg-id="5e20b730f2f8d5003d739db7-5ef51c802ddee5003f1c0225" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/tastemade/Logo_WordmarkLogo_800x200px.png" group-title="Empty name",Tastemade
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemade-lgca/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://d1l7mdb5og2vs7.cloudfront.net/Logo_HomeLogo_528x200px_LG.png" ,Tastemade Home
+#EXTINF:0 CUID="48" tvg-name="Tastemade Home" tvg-id="5e20b730f2f8d5003d739db7-5ef51c802ddee5003f1c0225" tvg-logo="https://d1l7mdb5og2vs7.cloudfront.net/Logo_HomeLogo_528x200px_LG.png" group-title="Empty name",Tastemade Home
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadehome-lgus/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/535-LG-Logo-PNG-100x100_v2.png" ,GoUSA TV
+#EXTINF:0 CUID="49" tvg-name="GoUSA TV" tvg-id="5e20b730f2f8d5003d739db7-60a9d105d162b9002d05a60c" tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/535-LG-Logo-PNG-100x100_v2.png" group-title="Empty name",GoUSA TV
 https://023945f69a084b10966be8a2e7ff8de5.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LG-ca_GoUSATV/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.platform.wurl.dev/channel/140/lg/efd2cc/LG-Logo-PNG-100x100_v1.png" ,Hungry
-https://wurljansonmedia.global.transmit.live/hls/67dd7965179406a178d76805/v1/food/lg_ca/latest/main/hls/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://d3bd0tgyk368z1.cloudfront.net/feeds/images/gusto/gustotvca_logo.png" ,Gusto TV
+#EXTINF:0 CUID="51" tvg-name="Gusto TV" tvg-id="5e20b730f2f8d5003d739db7-5f8746eabd529300418246d9" tvg-logo="http://d3bd0tgyk368z1.cloudfront.net/feeds/images/gusto/gustotvca_logo.png" group-title="Empty name",Gusto TV
 https://amg01077-gustofast-amg01077c7-lg-ca-5297.playouts.now.amagi.tv/playlist/amg01077-gusto-gustousmain-lgca/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/aenetworks/Evolution_Earth_Logo_800x200.png" ,Evolution Earth
+#EXTINF:0 CUID="52" tvg-name="Evolution Earth" tvg-id="647f8d22a2fc3fadb4721685-67291fdbc1edbd1509fb9d11" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/aenetworks/Evolution_Earth_Logo_800x200.png" group-title="Empty name",Evolution Earth
 https://amg00276-aenetwork-amg00276c15-lg-ca-3643.playouts.now.amagi.tv/playlist/amg00276-aetelevisionnetworksfast-universemysteriessolvedsubfeed-lgca/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/902-LG-Logo-PNG-100x100_v2.png" ,FashionTV
+#EXTINF:0 CUID="53" tvg-name="FashionTV" tvg-id="5e20b730f2f8d5003d739db7-6490c01f3b3ce9e1aaad95be" tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/902-LG-Logo-PNG-100x100_v2.png" group-title="Empty name",FashionTV
 https://6dac2b2ed48846e6b82a092411d7f989.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/LG-ca_FashionTV/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://d2y2gft5545ze9.cloudfront.net/Homeful_200pxHigh_LG_ChannelAssets_White.png" ,Homeful
+#EXTINF:0 CUID="54" tvg-name="Homeful" tvg-id="647f8d22a2fc3fadb4721685-646c0b34432016306ec0a086" tvg-logo="https://d2y2gft5545ze9.cloudfront.net/Homeful_200pxHigh_LG_ChannelAssets_White.png" group-title="Empty name",Homeful
 https://bam-homeful-canada-lg-ca.amagi.tv/hls/amagi_hls_data_bamcanada-bamca-homeful-can-lg/CDN/master.m3u8
-#EXTINF:-1 tvg-logo="https://d37lhv1m2qsipm.cloudfront.net/bctho/CTVatHome_LG_FAST_Logo.png" ,CTV Home
+#EXTINF:0 CUID="55" tvg-name="CTV Home" tvg-id="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f" tvg-logo="https://d37lhv1m2qsipm.cloudfront.net/bctho/CTVatHome_LG_FAST_Logo.png" group-title="Empty name",CTV Home
 https://amg00089-bellmedia-amg00089c9-lg-ca-3224.playouts.now.amagi.tv/playlist/amg00089-bellmediafast-ctvhome-lgca/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.frequency.com/studio/pgatour/channels/pgatour400x200.png" ,PGA TOUR
+#EXTINF:0 CUID="56" tvg-name="PGA TOUR" tvg-id="5e20b730f2f8d5003d739db7-68017ed20268b77d02a5f4bd" tvg-logo="https://static.frequency.com/studio/pgatour/channels/pgatour400x200.png" group-title="Empty name",PGA TOUR
 https://linear-1006.frequency.stream/dist/lg-ca/1006/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://d2epwduv7bstma.cloudfront.net/Dazn%20TV/LG/DAZN_TV_WHITE_800x413.png" ,DAZN TV
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00451-dazn-dazntv-lgca/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://d37lhv1m2qsipm.cloudfront.net/bttoc/TSNOcho_LG_FAST_Logo.png" ,TSN The Ocho
+#EXTINF:0 CUID="58" tvg-name="TSN The Ocho" tvg-id="647f8d22a2fc3fadb4721685-6685bf522deb7f424133b087" tvg-logo="https://d37lhv1m2qsipm.cloudfront.net/bttoc/TSNOcho_LG_FAST_Logo.png" group-title="Empty name",TSN The Ocho
 https://amg00089-bellmedia-amg00089c11-lg-ca-3226.playouts.now.amagi.tv/playlist/amg00089-bellmediafast-tsntheocho-lgca/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1102-LG-Logo-PNG-100x100_v3.png" ,Strongman Champions League
+#EXTINF:0 CUID="59" tvg-name="Strongman Champions League" tvg-id="5e20b730f2f8d5003d739db7-644b13a3a1c0a5b2024c8403" tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1102-LG-Logo-PNG-100x100_v3.png" group-title="Empty name",Strongman Champions League
 https://56c869c109ed45988a031993300b0840.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/LG-ca_StrongmanChampionsLeague/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/wpt/WPT+LOGO_WHITE_TRANSPARENT+BG.png" ,World Poker Tour
+#EXTINF:0 CUID="60" tvg-name="World Poker Tour" tvg-id="5e20b730f2f8d5003d739db7-5f6b8e7900b0950040d0f2b2" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/wpt/WPT+LOGO_WHITE_TRANSPARENT+BG.png" group-title="Empty name",World Poker Tour
 https://amg00218-wptenterprises-amg00218c1-lg-ca-1011.playouts.now.amagi.tv/playlist/amg00218-wptenterprisesfast-worldpokertour-lgca/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://aic-ngfts.lge.com/fts/gftsDownload.lge?biz_code=CDP&func_code=METADATA_FILE&file_path=/cdp/channel_logo/AMG/channel_600x200_1931.png" ,SportsGrid
+#EXTINF:0 CUID="61" tvg-name="SportsGrid" tvg-id="5e20b730f2f8d5003d739db7-5ef11485d33ab9004048a1ca" tvg-logo="https://aic-ngfts.lge.com/fts/gftsDownload.lge?biz_code=CDP&func_code=METADATA_FILE&file_path=/cdp/channel_logo/AMG/channel_600x200_1931.png" group-title="Empty name",SportsGrid
 https://sportsgrid-lg-ca.amagi.tv/hls/amagi_hls_data_sportsgri-sportsgrid-lgca/CDN/master.m3u8
-#EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/triplebmedia/Billiards_logo_transparent_800x200.png" ,Billiard TV
+#EXTINF:0 CUID="62" tvg-name="Billiard TV" tvg-id="5e20b730f2f8d5003d739db7-6334a8e48a7b2a349d903b8c" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/triplebmedia/Billiards_logo_transparent_800x200.png" group-title="Empty name",Billiard TV
 https://amg01267-tripleb-amg01267c1-lg-ca-1303.playouts.now.amagi.tv/playlist/amg01267-tripleb-billiardtv-lgca/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/triplebmedia/PLL_800x200.png" ,PLL Network
+#EXTINF:0 CUID="63" tvg-name="PLL Network" tvg-id="5e20b730f2f8d5003d739db7-66fbfd67bde73c589ab2af42" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/triplebmedia/PLL_800x200.png" group-title="Empty name",PLL Network
 https://amg01267-tripleb-amg01267c2-lg-ca-4770.playouts.now.amagi.tv/playlist/amg01267-tripleb-pllnetworkusdomestic-lgca/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://aic-ngfts.lge.com/fts/gftsDownload.lge?biz_code=CDP&func_code=METADATA_FILE&file_path=/cdp/resize_image/20241114/channel_600x200_baf61120-8cec-4029-94ba-86bab36fee0d.png" ,Squash TV
-https://amg12058-c15studio-amg12058c5-lg-ca-5915.playouts.now.amagi.tv/playlist/amg12058-c15medianetworkslimitedfast-squashtvcc-lgca/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/C15studio/Logo_DPWorldTour.png" ,DP World Tour
+#EXTINF:0 CUID="65" tvg-name="DP World Tour" tvg-id="5e20b730f2f8d5003d739db7-67858517d3749c9bdd4d2ecf" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/C15studio/Logo_DPWorldTour.png" group-title="Empty name",DP World Tour
 https://amg12058-c15studio-amg12058c6-lg-ca-5914.playouts.now.amagi.tv/playlist/amg12058-c15medianetworkslimitedfast-dpworldtourgolf-lgca/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.frequency.com/studio/redbull/channels/MediaBull_Logo_single_vec_hor_RGB_400x200.png?width=400&height=200" ,Red Bull TV
-https://f0d11f64b9cc4b1781f90e8a3e4e3a80.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-644-WORBUSENFAST-LG_CA/644/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.frequency.com/studio/swerve/channels/swerve-white-400x200.png" ,Swerve Combat
+#EXTINF:0 CUID="67" tvg-name="Swerve Combat" tvg-id="5e20b730f2f8d5003d739db7-61f04d2bb01a6e8df3f72902" tvg-logo="https://static.frequency.com/studio/swerve/channels/swerve-white-400x200.png" group-title="Empty name",Swerve Combat
 https://linear-253.frequency.stream/dist/lg-us/253/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1693-LG-Logo-PNG-100x100_v1.png" ,Monster Jam
+#EXTINF:0 CUID="68" tvg-name="Monster Jam" tvg-id="5e20b730f2f8d5003d739db7-6615885e1eabecf2c9d56495" tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1693-LG-Logo-PNG-100x100_v1.png" group-title="Empty name",Monster Jam
 https://c397b9fa.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctY2FfTW9uc3RlckphbV9ITFM/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://d97g6zbo9kng8.cloudfront.net/logo_waypoint.png" ,Waypoint TV
+#EXTINF:0 CUID="69" tvg-name="Waypoint TV" tvg-id="5e20b730f2f8d5003d739db7-5fd115b8b7ef8d002dcf1817" tvg-logo="https://d97g6zbo9kng8.cloudfront.net/logo_waypoint.png" group-title="Empty name",Waypoint TV
 https://waypointtv-lg-ca.amagi.tv/hls/amagi_hls_data_waypointt-waypointtv-lg-ca/CDN/master.m3u8
-#EXTINF:-1 tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1865-LG-Logo-PNG-100x100_v1.png" ,Real Madrid
-https://wurlcineverse.global.transmit.live/hls/678aa19b0d785cafbf15414a/v1/cinedigm_entertainment_corp_realmadrid_1/lg_ca/latest/main/hls/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.platform.wurl.dev/channel/1358/lg/2b0c5b/LG-Logo-PNG-100x100_v1.png" ,Fubo Sports
+#EXTINF:0 CUID="71" tvg-name="Fubo Sports" tvg-id="5e20b730f2f8d5003d739db7-5fc705f68aba71002d8b7b37" tvg-logo="https://img.platform.wurl.dev/channel/1358/lg/2b0c5b/LG-Logo-PNG-100x100_v1.png" group-title="Empty name",Fubo Sports
 https://ad993ce7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfRnVib1Nwb3J0c05ldHdvcmtfSExT/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://d2gqmql520my5n.cloudfront.net/WOMCH/LG/WSNLogoWhite_800x200.png" ,Women's Sports Network
+#EXTINF:0 CUID="72" tvg-name="Women's Sports Network" tvg-id="5e20b730f2f8d5003d739db7-630fa9e577ec3866def38fa2" tvg-logo="https://d2gqmql520my5n.cloudfront.net/WOMCH/LG/WSNLogoWhite_800x200.png" group-title="Empty name",Women's Sports Network
 https://womensnetwork-lg.amagi.tv/hls/amagi_hls_data_lgAAAAAAA-womensnetwork/CDN/playlist.m3u8
